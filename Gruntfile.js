@@ -52,6 +52,8 @@ module.exports = function(grunt) {
                 'stylesheets/*.css',
                 'speakers/*.{html,md}',
                 'sponsors/*.{html,md}',
+                'speakers/posts/*.{html,md}',
+                'sponsors/posts/*.{html,md}',
                 '*.{html,md}',
             ],
             tasks: ['shell:jekyllBuild'],
