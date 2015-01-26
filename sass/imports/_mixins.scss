@@ -1,0 +1,89 @@
+$bigphone-width: 400px;
+$tablet-width: 768px;
+$desktop-width: 1024px;
+$bigscreen-width: 1280px;
+
+@media (max-width: #{$tablet-width}) {
+  .hide-mobile {display:none;}
+}
+
+
+@mixin bigphone {
+  @media (min-width: #{$bigphone-width}) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: #{$tablet-width}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: #{$desktop-width}) {
+    @content;
+  }
+}
+
+@mixin bigscreen {
+  @media (min-width: #{$bigscreen-width}) {
+    @content;
+  }
+}
+
+@mixin uppercase {
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}
+
+@mixin wide-letterspacing {
+  letter-spacing: .15em;
+}
+
+
+@mixin text-light {
+  color: #FFF;
+}
+
+@mixin text-small {
+  font-size: .7857em;
+  line-height: 1.27;
+}
+
+
+
+@mixin links-light {
+  color: #FFF;
+  a {
+    color: $color_pink_light;
+    &:hover, &:focus {
+      color: $color_white_off;
+    }
+  }
+  .btn {
+    color: #FFF;
+    &:hover, &:focus {
+      color: #FFF;
+    }
+  }
+}
+
+@mixin font-bernina {
+  font-family: "jaf-bernina-sans", sans-serif;
+}
+
+@mixin font-bernina-comp {
+  font-family: "jaf-bernina-sans-comp", 'Arial Narrow' sans-serif;
+}
+
+@mixin font-domus {
+  font-family: "jaf-domus-titling-web", sans-serif;
+}
+
+
+
+
+
+
+

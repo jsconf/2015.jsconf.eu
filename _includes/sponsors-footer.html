@@ -1,0 +1,48 @@
+<section class="bg-blue">
+  <div class="wrapper">
+    <div class="item-100 item-content text-light z-index-0">
+      <h2>Sponsors</h2>
+      <p class="links-light">
+        We are currently offering sponsorship packages and media partnerships for JSConf EU 2015. <a href="mailto:contact@jsconf.eu">Contact us for details</a>.
+      </p>
+
+
+        {% assign sponsors=site.tags.sponsor %}
+        
+        <div class="sponsor-list">
+          {% for post in sponsors %}
+            {% if.post.level == "sponsor-special" %}
+              <a href="{{ post.permalink }}">
+                <img src="{{ post.image }}" title="{{ post.title }}">
+              </a>
+            {% endif %}
+          {% endfor %}
+
+          {% for post in sponsors %}
+            {% if.post.level == "sponsor-main" %}
+              <a href="{{ post.permalink }}">
+                <img src="{{ post.image }}" title="{{ post.title }}">
+              </a>
+            {% endif %}
+          {% endfor %}
+
+          {% for post in sponsors %}
+            {% if.post.level == "sponsor-support" %}
+              <a href="{{ post.permalink }}">
+                <img src="{{ post.image }}" title="{{ post.title }}">
+              </a>
+            {% endif %}
+          {% endfor %}
+
+          {% for post in sponsors %}
+            {% if.post.level == "sponsor-custom" %}
+              <a href="{{ post.permalink }}">
+                <img src="{{ post.image }}" title="{{ post.title }}">
+              </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+
+    </div>
+  </div>
+</section>

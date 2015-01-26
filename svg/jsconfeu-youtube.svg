@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<g>
+	<path id="The_Sharpness" opacity="0.12" fill-rule="evenodd" clip-rule="evenodd" d="M79.3,69.7l47.4,31.6l6.6-3.5L79.3,69.7z"/>
+	<g id="Lozenge">
+		<g>
+			<path d="M198,60c0,0-2-13.8-8-19.9c-7.6-8-16.1-8-20-8.5c-28-2-70-2-70-2H100c0,0-42,0-70,2
+				c-3.9,0.5-12.4,0.5-20,8.5C4,46.2,2,60,2,60S0,76.2,0,92.4v15.2c0,16.2,2,32.4,2,32.4s2,13.8,7.9,19.9c7.6,8,17.6,7.7,22.1,8.5
+				c16,1.5,68,2,68,2s42-0.1,70-2.1c3.9-0.5,12.4-0.5,20-8.5c6-6.1,8-19.9,8-19.9s2-16.2,2-32.4V92.4C200,76.2,198,60,198,60z
+				 M79.4,125.9l0-56.2l54,28.2L79.4,125.9z"/>
+		</g>
+	</g>
+</g>
+</svg>

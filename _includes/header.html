@@ -1,0 +1,54 @@
+{% if startpage %}
+
+  <header class="site-header bg-blue-pat bg-blue-pat-header">
+
+    <div class="wrapper wrapper-logo wrapper-space-between">
+      <div class="item-50">
+        <div class="site-logo">
+          <a href="/" title="Home">
+            <svg><use xlink:href="#svg-jsconfeu-logo" /></svg>
+          </a>
+        </div>
+      </div>
+      <div class="item-25">
+        <aside class="site-aside font-bernina">
+        <p>
+          Sept 25 &amp; 27 2015 <br>
+          Berlin, Germany
+        </p>
+        <p>
+          {% include cta.html %}
+        </p>
+        </aside>
+      </div>
+    </div>
+
+    <div class="js-sticky-nav js-sticky-nav-blue">
+      <div class="wrapper">
+        <div class="item-62-5">
+          {% include nav.html %}
+        </div>
+
+        <div class="item-25 hide-mobile">
+          {% include nav-social.html %}
+        </div>
+      </div>
+    </div>
+
+  </header>
+
+{% else %}
+  <header class="site-header bg-blue-pat bg-blue-pat-header nav-fixed">
+
+    <div class="wrapper">
+      <div class="item-62-5">
+        {% include nav.html %}
+      </div>
+
+      <div class="item-25 hide-mobile">
+        {% include nav-social.html %}
+      </div>
+    </div>
+
+  </header>
+{% endif %}

@@ -1,18 +1,16 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>JSConf EU 2015 – Code of Conduct</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  </head>
-  <body style="margin: 0; padding: 2em;">
+---
+  layout: simple-page
+  title: Code of Conduct - JSConf EU 2015
+  title-short: Code of Conduct
+---
 
-<pre style="white-space: pre-wrap; max-width: 600px; line-height: 1.5em;">
-# Code of Conduct
 
-All attendees, speakers, sponsors and volunteers at JSConf EU are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting coorporation from all participants to help ensuring a safe environment for everybody.
 
-*tl;dr: Don’t be a Jerk. Be excellent.*
+<div class="intro-p">
+  <p>All attendees, speakers, sponsors and volunteers at JSConf EU are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting coorporation from all participants to help ensuring a safe environment for everybody.</p>
+
+  <p class="text-blue">*tl;dr: Don’t be a Jerk. Be excellent.*</p>
+</div>
 
 ## Need Help? Contact Tiffany
 
@@ -42,6 +40,4 @@ In case you can’t find a staff member, Tiffany Conroy is always there for you:
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
-</pre>
-</body>
-</html>
+

@@ -1,88 +1,75 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>JSConf EU 2015</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="canonical" href="http://2015.jsconf.eu/index.html" />
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <meta name="google-site-verification" content="H6VZ353SM0CfTqymvhQPM0eLyWffpeRfyRjFlXLwNn0" />
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@jsconfeu">
-    <meta itemprop="image" content="http://2015.jsconf.eu/img/js.eu.png">
-    <meta name="twitter:image" content="http://2015.jsconf.eu/img/js.eu.png">
-    <meta property="og:image" content="http://2015.jsconf.eu/img/js.eu.png"/>
-    <meta name="twitter:creator" content="@jsconfeu">
-    <meta itemprop="name" content="JSConf EU 2015">
-    <meta name="twitter:title" content="JSConf EU 2015">
-    <meta property="og:title" content="JSConf EU 2015" />
-    <meta name="description" itemprop="description" content="JSConf EU, the labour-of-love conference for the JS community in Europe.">
-    <meta name="twitter:description" content="JSConf EU, the labour-of-love conference for the JS community in Europe.">
-    <meta property="og:description" content="JSConf EU, the labour-of-love conference for the JS community in Europe.">
-    <style>
-      article, aside, dialog, figure, footer, header,
-      hgroup, menu, nav, section { display: block; }
-      body {
-        font-size: 24px;
-        margin: 0;
-        padding: 2em;
-        line-height: 1.5;
-      }
-      footer {
-        font-size: 0.5em;
-        margin-top: 5em;
-      }
-      h1 {
-        margin: 0.75em 0;
-      }
-      pre {
-        white-space: pre-wrap;
-        font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-      }
-      @media (max-width: 700px) {
-        body {
-          font-size: 18px;
-          padding: 1em;
-        }
-        h1 {
-          font-size: 1.25em;
-        }
-      }
-    </style>
-  </head>
-  <body>
-<pre>
-Mark your calendars:
-<h1><span class="jsconfeu">JSConf EU</span>, <span class="cssconfeu">CSSConf EU</span>, and <span class="rejectjs">Reject.JS</span>
-will return to Berlin
-September 21-27, 2015</h1>
-Email us at <a href="mailto:&#x63;&#x6F;&#x6E;&#x74;&#x61;&#x63;&#x74;&#x40;&#x6A;&#x73;&#x63;&#x6F;&#x6E;&#x66;&#x2E;&#x65;&#x75;">contact@jsconf.eu</a>
-to learn about sponsorship opportunities.
+---
+  layout: start
+  title: JSConf EU 2014
+  background: background17
+  tags: homepage
+  description: "JSConf EU, the labour-of-love conference for the JS community in Europe."
+---
 
-<footer>
-We welcome everyone, and defend you from harassment with our strict <a href="code-of-conduct.html">anti-jerk policy</a> | <a href="impressum.html">Impressum</a>
-</footer>
-</pre>
-  <script>
-    var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-4656061-2']);
-    _gaq.push(['_setDomainName', 'jsconf.eu']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  var _gauges = _gauges || [];
-  (function() {
-    var t   = document.createElement('script');
-    t.type  = 'text/javascript';
-    t.async = true;
-    t.id    = 'gauges-tracker';
-    t.setAttribute('data-site-id', '50570251f5a1f57282000003');
-    t.src = '//secure.gaug.es/track.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(t, s);
-  })();
-</script>
-  </body>
-</html>
+
+<section class="bg-pink_white">
+
+  {% for post in site.tags.news limit: 1 %}
+    <article class="wrapper wrapper-post">
+
+      <div class="item-50 item_deco">
+        <figure>
+          <img src="{{ post.figure }}" width="400" height="400">
+        </figure>
+      </div>
+
+      <div class="item-50 item-content">
+        {{ post.content }}
+      </div>
+
+    </article>
+  {% endfor %}
+
+</section>
+
+
+<section class="bg-blue-pat links-light">
+  <div class="wrapper">
+    <div class="item-50 item-content">
+      <h1>The labour-of-love conference for the JS community in Europe</h1>
+      <p>
+        JSConf EU is a non-profit conference from the community for the community. Read up on the <a href="/why/">JSConf EU experience and what a ticket buys you</a>. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.
+      </p>
+
+      <p>
+        {% include cta.html %}
+      </p>
+
+    </div>
+    <div class="item-50 item_deco">
+      <figure>
+        <img src="img/jsconf-jenn-jed.jpg" alt="Jsconf Jenn Jed">
+      </figure>
+    </div>
+  </div>
+</section>
+
+
+<section class="bg-pink_white">
+
+  <div class="wrapper">
+    <div class="item-50 item_deco">
+      <figure>
+        <img src="img/angelina-fabbro.jpg" alt="Jsconf Jenn Jed">
+      </figure>
+    </div>
+
+    <div class="item-50 item-content">
+      <h1>Speaking at JSConf EU</h1>
+      <p>
+        We are inviting the JavaScript community to submit talks for the upcoming JSConf EU. If you think you have something great to talk about, tell us all about it and we consider your entry. If you know someone who has something great to talk about, nominate them. And if you are interested in hearing about a particular topic, nominate the topic, and we can try and find a match.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
