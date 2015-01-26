@@ -8,4 +8,8 @@ image: "/sponsors/images/sinnerschrader.png"
 link: "http://www.sinnerschrader.com/en/"
 ---
 
+<h3 class="sponsor">
+  <a href="{{page.permalink}}">{{ page.title }}</a>
+</h3>
+
 <a href="http://www.sinnerschrader.com/en/" target="_blank" rel="nofollow"><img src="/sponsors/images/sinnerschrader.png" class="sponsor-no-text" alt="SinnerSchrader" /></a>

@@ -7,11 +7,9 @@ permalink: "/sponsors/thinktecture.html"
 image: "/sponsors/images/thinktecture.png"
 ---
 
-<h1 class="sponsor">
+<h3 class="sponsor">
   <a href="{{page.permalink}}">{{ page.title }}</a>
-</h1>
-
-<img src="/sponsors/images/thinktecture.png" class="sponsor-main" />
+</h3>
 
 - We've been building HTML5/JS-apps together with our clients dev teams for several years
 - We were .NET developers on the client, but have seen the light ;)

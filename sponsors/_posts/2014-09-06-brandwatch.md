@@ -7,11 +7,9 @@ permalink: "/sponsors/brandwatch.html"
 image: "/sponsors/images/brandwatch.png"
 ---
 
-<h1 class="sponsor">
+<h3 class="sponsor">
   <a href="{{page.permalink}}">{{ page.title }}</a>
-</h1>
-
-<img src="/sponsors/images/brandwatch.png" class="sponsor"/>
+</h3>
 
 Brandwatch is one of the world’s best social technology companies. We help over 1000 businesses listen, analyse and act on conversations happening all over the web.
 
