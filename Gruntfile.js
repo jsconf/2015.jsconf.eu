@@ -13,10 +13,10 @@ module.exports = function(grunt) {
         },
         shell: {
             jekyllServe: {
-                command: 'LANG="en_US.UTF-8" LC_ALL="en_US.UTF-8" jekyll serve --safe --trace --baseurl ""'
+                command: "LANG='en_US.UTF-8' LC_ALL='en_US.UTF-8' jekyll serve --safe --trace --baseurl ''"
             },
             jekyllBuild: {
-                command: 'LANG="en_US.UTF-8" LC_ALL="en_US.UTF-8" jekyll build --safe --trace'
+                command: "LANG='en_US.UTF-8' LC_ALL='en_US.UTF-8' jekyll build --safe --trace --config _config.yml,_config_dev.yml"
             }
         },
 
@@ -87,7 +87,7 @@ module.exports = function(grunt) {
         },
         concurrent: {
           target: {
-            tasks: ['shell:jekyllServe', 'watch:compass', 'watch:site', 'watch:autoprefix'],
+            tasks: ['shell:jekyllServe', 'watch:site', 'watch:compass', 'watch:autoprefix'],
             options: {
               logConcurrentOutput: true,
               limit: 4

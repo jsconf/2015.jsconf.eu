@@ -3,14 +3,14 @@
 
 <nav class="site-nav">
   
-  <a href="/" class='{% if current[1] == nil %}nav-active{% endif %} icon'>
+  <a href="{{ site.baseurl }}/" class='{% if current[1] == nil %}nav-active{% endif %} icon'>
     <svg><use xlink:href="#svg-jsconfeu-logomark" /></svg>
   </a>
   
-  <a href="/news" {% if current[1] == 'news' %}class='nav-active'{% endif %}>News</a>
-  <a href="/speakers" {% if current[1] == 'speakers' %}class='nav-active'{% endif %}>Speakers</a>
+  <a href="{{ site.baseurl }}/news" {% if current[1] == 'news' %}class='nav-active'{% endif %}>News</a>
+  <a href="{{ site.baseurl }}/speakers" {% if current[1] == 'speakers' %}class='nav-active'{% endif %}>Speakers</a>
   <!-- <a href="/schedule" {% if current[1] == 'schedule' %}class='nav-active'{% endif %}>Schedule</a> -->
   <!-- <a href="/videos" {% if current[1] == 'videos' %}class='nav-active'{% endif %}>Videos</a> -->
-  <a href="/sponsors" {% if current[1] == 'sponsors' %}class='nav-active'{% endif %}>Sponsors</a>
-  <a href="/about" {% if current[1] == 'about' %}class='nav-active'{% endif %}>About</a>
+  <a href="{{ site.baseurl }}/sponsors" {% if current[1] == 'sponsors' %}class='nav-active'{% endif %}>Sponsors</a>
+  <a href="{{ site.baseurl }}/about" {% if current[1] == 'about' %}class='nav-active'{% endif %}>About</a>
 </nav>
