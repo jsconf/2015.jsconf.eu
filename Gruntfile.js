@@ -5,12 +5,20 @@ module.exports = function(grunt) {
         compass: {
           dev: {
             options: {
-                 sassDir: ['sass'],
-                 cssDir: ['stylesheets'],
+                 sassDir: 'sass',
+                 cssDir: 'stylesheets',
                  environment: 'development'
             }
           },
+          prod: {
+            options: {
+                 sassDir: 'sass',
+                 cssDir: 'stylesheets',
+                 environment: 'production'
+            }
+          }
         },
+        
         shell: {
             jekyllServe: {
                 command: "LANG='en_US.UTF-8' LC_ALL='en_US.UTF-8' jekyll serve --safe --trace --baseurl ''"
@@ -85,13 +93,6 @@ module.exports = function(grunt) {
             dest: 'stylesheets/screen.css'
           }
         },
-        cssmin: {
-          target: {
-            files: {
-              'stylesheets/screen.css': 'stylesheets/screen.css'
-            }
-          }
-        },
         concurrent: {
           target: {
             tasks: ['shell:jekyllServe', 'watch:site', 'watch:compass', 'watch:autoprefix'],
@@ -109,10 +110,9 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-concurrent');
     grunt.loadNpmTasks('grunt-svgstore');
     grunt.loadNpmTasks('grunt-autoprefixer');
-    grunt.loadNpmTasks('grunt-contrib-cssmin');
 
     grunt.registerTask('default', ['svgstore', 'concurrent']);
 
-    grunt.registerTask('release', ['svgstore', 'compass', 'autoprefixer:target', 'cssmin:target', 'shell:jekyllBuild']);
+    grunt.registerTask('release', ['svgstore', 'compass:prod', 'autoprefixer:target', 'shell:jekyllBuild']);
 
 };

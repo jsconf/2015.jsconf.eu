@@ -27,7 +27,7 @@
           $accent-color 25%,
           $accent-color 100%
         ),
-    image-url('/img/jsconf-pattern.svg');
+    image-url('jsconf-pattern.svg');
     background-repeat: repeat, repeat;
     background-position: 0 0, 0 0;
   }
@@ -40,7 +40,7 @@
           $accent-color calc((.25 * #{$wrapper-width}) + ((100% - #{$wrapper-width})/2)),
           $accent-color 100%
         ),
-    image-url('/img/jsconf-pattern.svg');
+    image-url('jsconf-pattern.svg');
   }
 }
 
@@ -55,7 +55,7 @@
           rgba(black, .5),
           rgba(black, .6) 100%
       ),
-    image-url('/img/jsconf-pattern.svg');
+    image-url('jsconf-pattern.svg');
   background-attachment: fixed;
   background-repeat: repeat;
   background-position: 0 0;
@@ -74,7 +74,7 @@
           rgba(black, .5),
           rgba(black, .6) 100%
         ),
-    image-url('/img/jsconf-pattern.svg');
+    image-url('jsconf-pattern.svg');
   }
   @include bigscreen {
     background-image:
@@ -90,7 +90,7 @@
             rgba($main-color, .75),
             rgba($main-color, .8) 100%
         ),
-    image-url('/img/jsconf-pattern.svg');
+    image-url('jsconf-pattern.svg');
   }
 }
 
@@ -163,7 +163,7 @@
   border-color: $accent-color;
   border-top: 5em solid $accent-color;
 
-  border-image: image-url('/img/jsconf-pattern.svg') 90 repeat;
+  border-image: image-url('jsconf-pattern.svg') 90 repeat;
 
 }
 
