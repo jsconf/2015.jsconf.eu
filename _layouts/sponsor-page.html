@@ -9,13 +9,20 @@
 
     <div class="item-50 item-deco">
       <figure class="figure-sponsor">
-        <img src="{{ site.baseurl }}/{{page.image}}" />
+        <img src="{{ site.baseurl }}{{page.image}}" />
       </figure>
     </div>
     <div class="item-50 item-content">
       <div class="sponsor-content">
-
+        <h3 class="sponsor">
+          <a href="{% if page.link %}{{page.link}}{% else %}{{ site.baseurl }}{{page.permalink}}{% endif %}">{{ page.title }}</a>
+        </h3>
         {{content}}
+        <p>
+          {{% if page.link %}}
+          <a href="{{page.link}}">{{page.link}}</a>
+          {{% endif %}}
+        </p>
       </div>
     </div>
 
