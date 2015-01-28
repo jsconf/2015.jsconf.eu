@@ -3,7 +3,7 @@
   title-short: Sponsors
 ---
 
-<section class="bg-pink-white bg-no-border">
+<section class="bg-pink-white-off bg-no-border">
 
   <article class="wrapper wrapper-post">
 
@@ -13,17 +13,15 @@
       </figure>
     </div>
     <div class="item-50 item-content">
-      <div class="sponsor-content">
-        <h3>
-          <a href="{% if page.link %}{{page.link}}{% else %}{{ site.baseurl }}{{page.permalink}}{% endif %}">{{ page.title }}</a>
-        </h3>
-        {{content}}
-        <p>
-          {{% if page.link %}}
-          <a href="{{page.link}}">{{page.link}}</a>
-          {{% endif %}}
-        </p>
-      </div>
+      <h3>
+        <a href="{% if page.link %}{{page.link}}{% else %}{{ site.baseurl }}{{page.permalink}}{% endif %}">{{ page.title }}</a>
+      </h3>
+      <!-- {{content}} -->
+      <p>
+        {{% if page.link %}}
+        <a href="{{page.link}}">{{page.link}}</a>
+        {{% endif %}}
+      </p>
     </div>
 
   </article>

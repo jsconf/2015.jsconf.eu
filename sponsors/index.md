@@ -2,6 +2,7 @@
   layout: simple-page
   title: Sponsors of JSConf EU 2015
   title-short: Sponsors
+  pattern: bg-pink-white
 ---
 
 {% assign sponsors=site.tags.sponsor %}
@@ -22,7 +23,7 @@
     <h4>
       <a href="{{ site.baseurl }}{{post.permalink}}">{{ post.title }}</a>
     </h4>
-    {{ post.content }}
+    <!-- {{ post.content }} -->
   </div>
   {% endif %}
 {% endfor %}
@@ -34,7 +35,7 @@
     <h4>
       <a href="{{ site.baseurl }}{{post.permalink}}">{{ post.title }}</a>
     </h4>
-    {{ post.content }}
+    <!-- {{ post.content }} -->
   </div>
   {% endif %}
 {% endfor %}
@@ -46,7 +47,7 @@
     <h4>
       <a href="{{ site.baseurl }}{{post.permalink}}">{{ post.title }}</a>
     </h4>
-    {{ post.content }}
+    <!-- {{ post.content }} -->
   </div>
   {% endif %}
 {% endfor %}
@@ -58,7 +59,7 @@
     <h4>
       <a href="{{ site.baseurl }}{{post.permalink}}">{{ post.title }}</a>
     </h4>
-    {{ post.content }}
+    <!-- {{ post.content }} -->
   </div>
   {% endif %}
 {% endfor %}

@@ -1,21 +1,21 @@
 ---
   layout: simple-page
   title: Why JSConf EU 2015
-  title-short: Why JSConf EU
+  title-short: Why
 ---
 
 # Why JSConf EU
 
 > Our biggest reward as conference organisers is people doing great things with something they learned at or with someone they met at the conference.
 
-We are inviting the JavaScript community to attend the upcoming JSConf EU (September 13th-14th, Berlin). Tickets will be [sold based on this schedule](/news/2014/06/11/ticket-schedule.html), and [announced on our Twitter account](https://twitter.com/jsconfeu).
+We are inviting the JavaScript community to attend the upcoming JSConf EU (September 13th-14th, Berlin). Ticket Sales start on February 1st 2015, and will also be [announced on our Twitter account](https://twitter.com/jsconfeu).
 
 <img
     src="{{ site.baseurl }}/img/jsconfeu-group-2014.jpg"
     alt="Group picture JSConf EU 2014"
     class="img-flex" />
 
-JSConf EU is a professional, not-for-profit, labour-of-love conference for the JavaScript community. It’s a two day affair, with many related side events in the days surrounding it and is an invitation for the community to come together and for new people to get to know and join the community.
+JSConf EU is a professional, not-for-profit, labour-of-love conference for the JavaScript community. It’s a two day affair, with many related side events in the days surrounding it. JSConf EU is an invitation for the community to come together and for new people to get to know and join the community.
 
 If you have a desire to learn more about your profession or hobby and get energized about JavaScript, then this conference is for you.
 
@@ -96,5 +96,5 @@ Post Events:
 
 ## Buy a ticket
 
-See [our ticket schedule](/news/2014/06/11/ticket-schedule.html) for when tickets will be available.
+See our [announcements on our Twitter account](https://twitter.com/jsconfeu) for when tickets will be available.
 

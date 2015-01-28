@@ -100,7 +100,7 @@ nav {
 .wrapper {
   margin: 0 auto;
   width: 100%;
-  max-width: $wrapper-width;
+  max-width: 600px;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -108,6 +108,7 @@ nav {
   @include tablet {
     flex-direction: row;
     flex-wrap: wrap;
+    max-width: $wrapper-width;
   }
 }
 
@@ -193,7 +194,13 @@ nav {
     vertical-align: 0;
   }
 }
-
+.icon-footer {
+  display: block;
+  @include tablet {
+    float: right;
+    margin-left: $site-padding;
+  }
+}
 .social-nav {
   max-width: 100px;
   .icon {
@@ -431,14 +438,6 @@ figure {
 //  }
 }
 
-.sponsor-content {
-  img {
-    width: 100%;
-    max-width: 320px;
-    height: auto;
-    display: block;
-  }
-}
 
 
 // Speakers and Videos
@@ -447,9 +446,10 @@ figure {
 }
 .speaker-aside {
   img {
+    @include img-flex;
     display: block;
-    width: 100%;
-    height: auto;
+    margin-bottom: 1.5em;
+    max-width: 320px;
   }
   .speaker-info {
     @include text-small;
@@ -462,9 +462,10 @@ figure {
   }
   @include tablet {
     position: absolute;
-    width: 80px;
     top: 0;
-    left: -100px;
+    width: 120px;
+    left: -140px;
+    padding-top: .25em;
     text-align: right;
   }
 }

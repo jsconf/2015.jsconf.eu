@@ -4,8 +4,12 @@ layout: default
 
 {% include header.html %}
 
-<section class="bg-pink-white">
-  
+<section class="{% if page.pattern %}
+                  {{ page.pattern }}
+                {% else %}
+                  bg-pink-white-off
+                {% endif %}">
+
   <div class="wrapper top-wrapper">
 
     <div class="item-25">
@@ -20,17 +24,16 @@ layout: default
     </div>
 
   </div>
-  
+
   <div class="wrapper">
 
     <div class="item-50 item-deco">
-      
+
     </div>
     <div class="item-50 item-content">
       {{content}}
     </div>
 
   </div>
-  
+
 </section>
-  

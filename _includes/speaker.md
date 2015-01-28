@@ -16,17 +16,6 @@
 {% include speaker_map.md %}
 
 <div class="item-50 item-deco">
-  {% unless overview %}
-
-  <figure>
-    {% if page.image %}
-    {% if image_link %}<a href="{{ image_link }}" class="speaker_avatar" target="_blank">{% else %}<span class="speaker_avatar">{% endif %}
-      <img src="{{ page.image.filename }}" alt="{{ page.speaker }}" width="200" height="{{ page.image.heightSite }}" itemprop="image" class="speaker" />
-    {% if image_link %}</a>{% else %}</span>{% endif %}
-    {% endif %}
-  </figure>
-
-  {% endunless %}
 </div>
 
 <div class="item-50 item-content">
@@ -34,7 +23,7 @@
   <div>
   {% else %}
     {% if page.video %}
-    <div itemprop="video" class="talk_video" itemscope="" itemtype="http://schema.org/VideoObject">
+    <div itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
     {% else %}
     <div itemscope="" itemtype="http://schema.org/Person">
     {% endif %}
@@ -43,7 +32,7 @@
     <header class="scrollTarget speaker-header">
       <h2>
         {{post.overview}}
-        <a href="{{ page.url }}">
+        <a href="{{ site.baseurl }}{{ page.url }}">
           <span itemprop="name">
             {{ page.speaker }}: <br class="hide-mobile">
             {{ page.talk }}
@@ -51,22 +40,20 @@
         </a>
       </h2>
       <div class="speaker-aside">
-      {% if overview %}
-        {% if page.image %}
-          <img src="{{ page.image.filename }}" alt="{{ page.speaker }}" width="200" height="{{ page.image.heightSite }}" itemprop="image" class="speaker" />
-        {% endif %}
+      {% if page.image %}
+        <img src="{{ site.baseurl }}{{ page.image.filename }}" alt="{{ page.speaker }}" width="200" height="{{ page.image.heightSite }}" itemprop="image" class="speaker" />
       {% endif %}
-      <ul class="speaker-info">
-        {% if page.from != "" %}<li>
-          <a href="https://www.google.com/maps/preview#!q={{ page.from }}"  target="_blank">{{ page.from != ""  }}</a>
-        </li>{% endif %}
-        {% if page.website != ""  %}<li><a href="{{ page.website }}" itemprop="url" target="_blank">Website</a></li>{% endif %}
-        {% if page.github != ""  %}<li><a href="{{ page.github }}" itemprop="url" target="_blank">Github</a></li>{% endif %}
-        {% if page.twitter != ""  %}<li><a href="{{ page.twitter }}" itemprop="url" target="_blank">Twitter</a></li>{% endif %}
-        {% if page.gplus != ""  %}<li><a href="{{ page.gplus }}" itemprop="url" target="_blank">Google+</a></li>{% endif %}
-        {% if page.github2 %}<li><a href="{{ page.github2 }}" itemprop="url" target="_blank">Github</a></li>{% endif %}
-        {% if page.twitter2 %}<li><a href="{{ page.twitter2 }}" itemprop="url" target="_blank">Twitter</a></li>{% endif %}
-      </ul>
+        <ul class="speaker-info">
+          {% if page.from != "" %}<li>
+            <a href="https://www.google.com/maps/preview#!q={{ page.from }}"  target="_blank">{{ page.from != ""  }}</a>
+          </li>{% endif %}
+          {% if page.website != ""  %}<li><a href="{{ page.website }}" itemprop="url" target="_blank">Website</a></li>{% endif %}
+          {% if page.github != ""  %}<li><a href="{{ page.github }}" itemprop="url" target="_blank">Github</a></li>{% endif %}
+          {% if page.twitter != ""  %}<li><a href="{{ page.twitter }}" itemprop="url" target="_blank">Twitter</a></li>{% endif %}
+          {% if page.gplus != ""  %}<li><a href="{{ page.gplus }}" itemprop="url" target="_blank">Google+</a></li>{% endif %}
+          {% if page.github2 %}<li><a href="{{ page.github2 }}" itemprop="url" target="_blank">Github</a></li>{% endif %}
+          {% if page.twitter2 %}<li><a href="{{ page.twitter2 }}" itemprop="url" target="_blank">Twitter</a></li>{% endif %}
+        </ul>
       </div>
     </header>
 
@@ -74,7 +61,6 @@
       <div itemprop="description">
         
         {{ page.description | markdownify }}
-        
 
         {% if page.video %}
 
