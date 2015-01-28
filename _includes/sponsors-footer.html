@@ -12,32 +12,32 @@
         <div class="sponsor-list">
           {% for post in sponsors %}
             {% if.post.level == "sponsor-special" %}
-              <a href="{{ post.permalink }}">
-                <img src="{{ post.image }}" title="{{ post.title }}">
+              <a href="{{ site.baseurl }}{{ post.permalink }}">
+                <img src="{{ site.baseurl }}{{ post.image }}" title="{{ post.title }}">
               </a>
             {% endif %}
           {% endfor %}
 
           {% for post in sponsors %}
             {% if.post.level == "sponsor-main" %}
-              <a href="{{ post.permalink }}">
-                <img src="{{ post.image }}" title="{{ post.title }}">
+              <a href="{{ site.baseurl }}{{ post.permalink }}">
+                <img src="{{ site.baseurl }}{{ post.image }}" title="{{ post.title }}">
               </a>
             {% endif %}
           {% endfor %}
 
           {% for post in sponsors %}
             {% if.post.level == "sponsor-support" %}
-              <a href="{{ post.permalink }}">
-                <img src="{{ post.image }}" title="{{ post.title }}">
+              <a href="{{ site.baseurl }}{{ post.permalink }}">
+                <img src="{{ site.baseurl }}{{ post.image }}" title="{{ post.title }}">
               </a>
             {% endif %}
           {% endfor %}
 
           {% for post in sponsors %}
             {% if.post.level == "sponsor-custom" %}
-              <a href="{{ post.permalink }}">
-                <img src="{{ post.image }}" title="{{ post.title }}">
+              <a href="{{ site.baseurl }}{{ post.permalink }}">
+                <img src="{{ site.baseurl }}{{ post.image }}" title="{{ post.title }}">
               </a>
             {% endif %}
           {% endfor %}

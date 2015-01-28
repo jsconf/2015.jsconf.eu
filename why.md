@@ -11,7 +11,7 @@
 We are inviting the JavaScript community to attend the upcoming JSConf EU (September 13th-14th, Berlin). Tickets will be [sold based on this schedule](/news/2014/06/11/ticket-schedule.html), and [announced on our Twitter account](https://twitter.com/jsconfeu).
 
 <img
-    src="/img/jsconfeu-group-2014.jpg"
+    src="{{ site.baseurl }}/img/jsconfeu-group-2014.jpg"
     alt="Group picture JSConf EU 2014"
     class="img-flex" />
 
