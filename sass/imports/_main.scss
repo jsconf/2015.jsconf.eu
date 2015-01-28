@@ -181,6 +181,7 @@ nav {
   height: 3.809em;
   a {
     flex-grow: 1;
+    text-align: center;
   }
 }
 
@@ -197,12 +198,6 @@ nav {
   max-width: 100px;
   .icon {
     max-width: 1em;
-  }
-}
-
-.site-nav {
-  a {
-    text-align: right;
   }
 }
 

@@ -82,19 +82,19 @@ module.exports = function(grunt) {
         autoprefixer: {
           target: {
             src: 'stylesheets/screen-unprefixed.css',
-            dest: 'stylesheets/screen-prefixed.css'
+            dest: 'stylesheets/screen.css'
           }
         },
         cssmin: {
           target: {
             files: {
-              'stylesheets/screen.css': 'stylesheets/screen-prefixed.css'
+              'stylesheets/screen.css': 'stylesheets/screen.css'
             }
           }
         },
         concurrent: {
           target: {
-            tasks: ['shell:jekyllServe', 'watch:site', 'watch:compass', 'watch:autoprefix', 'cssmin:target'],
+            tasks: ['shell:jekyllServe', 'watch:site', 'watch:compass', 'watch:autoprefix'],
             options: {
               logConcurrentOutput: true,
               limit: 5
@@ -113,5 +113,6 @@ module.exports = function(grunt) {
 
     grunt.registerTask('default', ['svgstore', 'concurrent']);
 
+    grunt.registerTask('release', ['svgstore', 'compass', 'autoprefixer:target', 'cssmin:target', 'shell:jekyllBuild']);
 
 };
