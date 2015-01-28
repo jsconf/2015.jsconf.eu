@@ -5,6 +5,7 @@
 ---
 
       
+> “This was probably one of the best weekends of my life, meeting great people, listening to talented developers share their experiences with us and getting inspired by a lot of them.”
 
 JSConf EU, the labour-of-love conference for the JS community in Europe. Let the moving images speak for themselves:
 
@@ -28,33 +29,27 @@ JSConf EU, the labour-of-love conference for the JS community in Europe. Let the
 
 JSConf EU is brought to you by these people:
 
-<p class='person'>
+<p class="curator">
   <img alt='Tiffany Conroy' height='280' src='{{ site.baseurl }}/img/tiffany.jpg' width='280' />
-  <span>Tiffany Conroy –
-    <a href='https://twitter.com/theophani' target='_blank' class="please-work">@theophani</a>
-  </span>
+  Tiffany Conroy |
+  <a href='https://twitter.com/theophani' target='_blank'>@theophani</a>
 </p>
 
-<p class='person'>
+<p class="curator">
   <img alt='Jan Lehnardt' height='280' src='{{ site.baseurl }}/img/jan.png' width='280' />
-  <span>Jan Lehnardt –
-    <a href='https://twitter.com/janl' target='_blank'>@janl</a>
-  </span>
+  Jan Lehnardt |
+  <a href='https://twitter.com/janl' target='_blank'>@janl</a>
 </p>
 
-<p class='person'>
+<p class="curator">
   <img alt='Holger Blank' height='280' src='{{ site.baseurl }}/img/holger.jpg' width='280' />
-  <span>
-    <a href='https://plus.google.com/u/0/115780460381776595134/posts' target='_blank'>+Holger Blank</a> –
-    <a href='https://twitter.com/hblank' target='_blank'>@hblank</a>
-  </span>
+  <a href='https://plus.google.com/u/0/115780460381776595134/posts' target='_blank'>+Holger Blank</a> |
+  <a href='https://twitter.com/hblank' target='_blank'>@hblank</a>
 </p>
 
-<p class='person'>
+<p class="curator">
   <img alt='Malte Ubl' height='280' src='{{ site.baseurl }}/img/malte.jpg' width='280' />
-  <span>
-    <a href='https://plus.google.com/u/0/116910304844117268718/posts' target='_blank'>+Malte Ubl</a> –
-    <a href='https://twitter.com/cramforce' target='_blank'>@cramforce</a>
-  </span>
+  <a href='https://plus.google.com/u/0/116910304844117268718/posts' target='_blank'>+Malte Ubl</a> |
+  <a href='https://twitter.com/cramforce' target='_blank'>@cramforce</a>
 </p>
 

@@ -330,6 +330,14 @@ nav {
 }
 
 
+.curator {
+  img {
+    @include img-flex;
+    display: block;
+    max-width: 240px;
+  }
+}
+
 .sponsor {
   border-bottom: $border-width solid $color_pink;
   margin-bottom: 3em;

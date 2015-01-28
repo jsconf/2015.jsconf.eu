@@ -641,12 +641,20 @@ nav a {
   max-width: 580px;
 }
 
-/* line 333, ../sass/imports/_main.scss */
+/* line 334, ../sass/imports/_main.scss */
+.curator img {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 240px;
+}
+
+/* line 341, ../sass/imports/_main.scss */
 .sponsor {
   border-bottom: 3px solid #E10079;
   margin-bottom: 3em;
 }
-/* line 336, ../sass/imports/_main.scss */
+/* line 344, ../sass/imports/_main.scss */
 .sponsor img {
   display: inline-block;
   max-width: 320px;
@@ -656,13 +664,13 @@ nav a {
   margin-bottom: 1em;
 }
 
-/* line 346, ../sass/imports/_main.scss */
+/* line 354, ../sass/imports/_main.scss */
 .figure-sponsor {
   padding: 3em;
   background-color: #FFF;
 }
 
-/* line 351, ../sass/imports/_main.scss */
+/* line 359, ../sass/imports/_main.scss */
 figure {
   position: relative;
   margin-right: auto;
@@ -671,7 +679,7 @@ figure {
   width: 100%;
   max-width: 420px;
 }
-/* line 358, ../sass/imports/_main.scss */
+/* line 366, ../sass/imports/_main.scss */
 figure img {
   width: 100%;
   height: auto;
@@ -679,53 +687,53 @@ figure img {
   position: relative;
 }
 
-/* line 382, ../sass/imports/_main.scss */
+/* line 390, ../sass/imports/_main.scss */
 .nav-fixed, .js-sticky-nav.active {
   position: fixed;
   top: 0;
   z-index: 10;
   width: 100%;
 }
-/* line 387, ../sass/imports/_main.scss */
+/* line 395, ../sass/imports/_main.scss */
 .nav-fixed.js-sticky-nav-blue, .js-sticky-nav.active.js-sticky-nav-blue {
   background-color: #051add;
 }
 
-/* line 392, ../sass/imports/_main.scss */
+/* line 400, ../sass/imports/_main.scss */
 .nav-fixed + section {
   margin-top: 53px;
 }
 
-/* line 396, ../sass/imports/_main.scss */
+/* line 404, ../sass/imports/_main.scss */
 .z-index-0 {
   z-index: 0;
 }
 
-/* line 400, ../sass/imports/_main.scss */
+/* line 408, ../sass/imports/_main.scss */
 .sponsor-list {
   text-align: center;
   background: #FFF;
   padding: 40px 20px;
 }
-/* line 404, ../sass/imports/_main.scss */
+/* line 412, ../sass/imports/_main.scss */
 .sponsor-list a {
   display: inline-block;
   vertical-align: middle;
   max-width: 80px;
   margin: 1em 4%;
 }
-/* line 409, ../sass/imports/_main.scss */
+/* line 417, ../sass/imports/_main.scss */
 .sponsor-list a img {
   width: 100%;
   height: auto;
 }
 
-/* line 444, ../sass/imports/_main.scss */
+/* line 452, ../sass/imports/_main.scss */
 .speaker-header {
   position: relative;
 }
 
-/* line 448, ../sass/imports/_main.scss */
+/* line 456, ../sass/imports/_main.scss */
 .speaker-aside img {
   width: 100%;
   height: auto;
@@ -733,7 +741,7 @@ figure img {
   margin-bottom: 1.5em;
   max-width: 320px;
 }
-/* line 454, ../sass/imports/_main.scss */
+/* line 462, ../sass/imports/_main.scss */
 .speaker-aside .speaker-info {
   font-size: .7857em;
   line-height: 1.27;
@@ -741,12 +749,12 @@ figure img {
   list-style: none;
   padding-left: 0;
 }
-/* line 459, ../sass/imports/_main.scss */
+/* line 467, ../sass/imports/_main.scss */
 .speaker-aside .speaker-info a {
   display: block;
 }
 @media (min-width: 768px) {
-  /* line 447, ../sass/imports/_main.scss */
+  /* line 455, ../sass/imports/_main.scss */
   .speaker-aside {
     position: absolute;
     top: 0;
@@ -757,24 +765,24 @@ figure img {
   }
 }
 
-/* line 475, ../sass/imports/_main.scss */
+/* line 483, ../sass/imports/_main.scss */
 .video {
   border-bottom: 3px solid #E10079;
   margin-bottom: 1.5em;
 }
 
-/* line 480, ../sass/imports/_main.scss */
+/* line 488, ../sass/imports/_main.scss */
 .video-preview {
   float: right;
   margin-left: 20px;
   margin-bottom: 1em;
   position: relative;
 }
-/* line 485, ../sass/imports/_main.scss */
+/* line 493, ../sass/imports/_main.scss */
 .video-preview img {
   display: block;
 }
-/* line 488, ../sass/imports/_main.scss */
+/* line 496, ../sass/imports/_main.scss */
 .video-preview .video-preview-icon {
   position: absolute;
   top: 0;
@@ -783,13 +791,13 @@ figure img {
   height: 100%;
   text-align: center;
 }
-/* line 495, ../sass/imports/_main.scss */
+/* line 503, ../sass/imports/_main.scss */
 .video-preview .video-preview-icon svg {
   max-width: 25%;
   height: 100%;
 }
 
-/* line 502, ../sass/imports/_main.scss */
+/* line 510, ../sass/imports/_main.scss */
 .video_info {
   margin-bottom: 1.5em;
   font-size: .7857em;
