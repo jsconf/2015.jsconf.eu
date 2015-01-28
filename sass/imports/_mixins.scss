@@ -52,6 +52,11 @@ $bigscreen-width: 1280px;
 }
 
 
+@mixin img-flex {
+  width: 100%;
+  height: auto;
+}
+
 
 @mixin links-light {
   color: #FFF;

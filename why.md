@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Why JSConf EU
-background: background3
-image: /img/group-2013.jpg
+  layout: simple-page
+  title: Why JSConf EU 2015
+  title-short: Why JSConf EU
 ---
 
 # Why JSConf EU
@@ -11,17 +10,16 @@ image: /img/group-2013.jpg
 
 We are inviting the JavaScript community to attend the upcoming JSConf EU (September 13th-14th, Berlin). Tickets will be [sold based on this schedule](/news/2014/06/11/ticket-schedule.html), and [announced on our Twitter account](https://twitter.com/jsconfeu).
 
-<div class="embed_container">
-  <img width="560" height="420"
-    src="/img/group-2013.jpg"
-    alt="Group picture JSConf EU 2013" />
-</div>
+<img
+    src="/img/jsconfeu-group-2014.jpg"
+    alt="Group picture JSConf EU 2014"
+    class="img-flex" />
 
 JSConf EU is a professional, not-for-profit, labour-of-love conference for the JavaScript community. It’s a two day affair, with many related side events in the days surrounding it and is an invitation for the community to come together and for new people to get to know and join the community.
 
 If you have a desire to learn more about your profession or hobby and get energized about JavaScript, then this conference is for you.
 
-The heart of the conference are ~45 presentations spread over two days on a weekend with topics ranging from deep technical journeys into JavaScript and what can be done with it to the big question of why we are all doing this and how we could do it better.
+The heart of the conference are ~45 presentations spread over two days with topics ranging from deep technical journeys into JavaScript and what can be done with it to the big question of why we are all doing this and how we could do it better.
 
 This is rounded off with social events on the evenings before, the days of, and the morning and midday after the conference. The socials are meant as a conductor for people to have the chance to meet each other, discuss the topics of the talks, and, above everything else, make real connections and maybe find new friends.
 
@@ -29,7 +27,7 @@ JSConf EU celebrates its host city Berlin. What better way to invite all of Berl
 
 ## Topics
 
-To get a feel for the kind of talks you will be able to see, here is the programme for the past years ([2009](http://jsconf.eu/2009/speakers.html), [2010](http://jsconf.eu/2010/speakers.html), [2011](http://jsconf.eu/2011/speakers.html), [2012](http://2012.jsconf.eu/speakers.html), [2013](http://2013.jsconf.eu/speakers/)).
+To get a feel for the kind of talks you will be able to see, here is the programme for the past years ([2009](http://jsconf.eu/2009/speakers.html), [2010](http://jsconf.eu/2010/speakers.html), [2011](http://jsconf.eu/2011/speakers.html), [2012](http://2012.jsconf.eu/speakers.html), [2013](http://2013.jsconf.eu/speakers/), [2014](http://2014.jsconf.eu/speakers/)).
 
 
 ## The Good Stuff
@@ -38,7 +36,7 @@ A JSConf EU ticket includes the following:
 
 - A wide range of refreshing drinks and overflowing coffee including a barista making coffee on request.
 - Both days include a full breakfast and lunch with delicious options for omnivores, vegetarians, vegans, and people with celiac disease. If you have any special dietary requirements, please let us know, so we can accommodate you.
-- On Saturday, we provide a full dinner for everyone, before the social event.
+- On Friday, we provide a full dinner for everyone, before the social event.
 - On Sunday, the dinner is on you, but we all meet again at the social event site, and we will host it somewhere with a variety of street food and restaurant options nearby.
 - On Monday, we provide a relaxing brunch with conference attendees who are on their way back home. Conveniently located close to a transit hub, so getting to trains and planes is a snap.
 
@@ -72,7 +70,6 @@ If you have any questions, please get in touch: [curators@jsconf.eu](mailto:&#x6
 
 > “I really appreciate the ‘invisible’ touches that made the entire conference smooth and hassle-free, like free food and a constant supply of free drinks, the almost constant cleaning of the bathrooms, zero administrative overhead on check-in.”
 
-
 > “This was probably one of the best weekends of my life, meeting great people, listening to talented developers share their experiences with us and getting inspired by a lot of them.”
 
 > “I most enjoyed the fact that I felt completely included and taken care of by the conference and my peers.”
@@ -82,17 +79,16 @@ If you have any questions, please get in touch: [curators@jsconf.eu](mailto:&#x6
 
 ## Schedule-ish
 
-Pre Events:
+Related Events:
 - Monday-Saturday: [JSFest Berlin](http://jsfest.berlin)
 - Thursday: [Reject.js](http://rejectjs.org)
-- Friday: [CSSConf EU](http://2014.cssconf.eu)
-- Friday night: CSSConf EU closing/JSConf EU opening party
+- Saturday: [CSSConf EU](http://2015.cssconf.eu)
 
 Main Event
-- Saturday & Sunday: JSConf EU
-- Begin at ~9am on Saturday, ~10am Sunday.
+- Friday & Sunday: JSConf EU
+- Begin at ~9am on Friday, ~10am Sunday.
 - Both days include a full breakfast and lunch with vegetarians, vegans and celiacs catered for. If you have any special dietary restrictions, please let us know, so we can accommodate you.
-- On Saturday, we provide a full dinner for everyone, just preceding the social event.
+- On Friday, we provide a full dinner for everyone, just preceding the social event.
 - On Sunday, the dinner is on you, but we all meet again at the social event site, and we will have it somewhere with a variety of street food and restaurant options nearby.
 
 Post Events:
