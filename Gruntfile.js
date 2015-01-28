@@ -5,16 +5,20 @@ module.exports = function(grunt) {
         compass: {
           dev: {
             options: {
-                 sassDir: 'sass',
-                 cssDir: 'stylesheets',
-                 environment: 'development'
+              http_path: '/',
+              imagesDir: 'img',
+              sassDir: 'sass',
+              cssDir: 'stylesheets',
+              environment: 'development'
             }
           },
           prod: {
             options: {
-                 sassDir: 'sass',
-                 cssDir: 'stylesheets',
-                 environment: 'production'
+              http_path: '/2015.jsconf.eu/',
+              imagesDir: 'img',
+              sassDir: 'sass',
+              cssDir: 'stylesheets',
+              environment: 'production'
             }
           }
         },
