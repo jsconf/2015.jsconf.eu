@@ -95,7 +95,7 @@
 }
 
 
-.bg-pink_white_off {
+.bg-pink-white-off {
   $main-color: $color_white_off;
   $accent-color: $color_pink;
 
@@ -124,8 +124,8 @@
   }
 }
 
-.bg-pink_white {
-  $main-color: $color_white_off;
+.bg-pink-white {
+  $main-color: $color_white;
   $accent-color: $color_pink;
 
   background-color: $main-color;

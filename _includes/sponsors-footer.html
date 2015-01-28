@@ -8,7 +8,7 @@
 
 
         {% assign sponsors=site.tags.sponsor %}
-        
+
         <div class="sponsor-list">
           {% for post in sponsors %}
             {% if.post.level == "sponsor-special" %}
@@ -18,6 +18,8 @@
             {% endif %}
           {% endfor %}
 
+          <br>
+
           {% for post in sponsors %}
             {% if.post.level == "sponsor-main" %}
               <a href="{{ site.baseurl }}{{ post.permalink }}">
@@ -26,6 +28,8 @@
             {% endif %}
           {% endfor %}
 
+          <br>
+
           {% for post in sponsors %}
             {% if.post.level == "sponsor-support" %}
               <a href="{{ site.baseurl }}{{ post.permalink }}">
@@ -33,6 +37,8 @@
               </a>
             {% endif %}
           {% endfor %}
+
+          <br>
 
           {% for post in sponsors %}
             {% if.post.level == "sponsor-custom" %}

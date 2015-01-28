@@ -7,10 +7,6 @@ permalink: "/sponsors/thinktecture.html"
 image: "/sponsors/images/thinktecture.png"
 ---
 
-<h3 class="sponsor">
-  <a href="{{page.permalink}}">{{ page.title }}</a>
-</h3>
-
 - We've been building HTML5/JS-apps together with our clients dev teams for several years
 - We were .NET developers on the client, but have seen the light ;)
 - We *love* AngularJS

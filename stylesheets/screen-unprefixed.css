@@ -630,9 +630,10 @@ nav a {
 
 /* line 326, ../sass/imports/_main.scss */
 .sponsor {
-  margin-bottom: 1.5em;
+  border-bottom: 3px solid #E10079;
+  margin-bottom: 3em;
 }
-/* line 328, ../sass/imports/_main.scss */
+/* line 329, ../sass/imports/_main.scss */
 .sponsor img {
   display: inline-block;
   max-width: 320px;
@@ -867,39 +868,39 @@ article {
 }
 
 /* line 98, ../sass/imports/_backgrounds.scss */
-.bg-pink_white_off {
+.bg-pink-white-off {
   background-color: #f1f1f1;
   border-top: 1em solid #E10079;
 }
 @media (min-width: 768px) {
   /* line 98, ../sass/imports/_backgrounds.scss */
-  .bg-pink_white_off {
+  .bg-pink-white-off {
     border: none;
     background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 75%, #e10079 75%, #e10079 100%);
   }
 }
 @media (min-width: 1280px) {
   /* line 98, ../sass/imports/_backgrounds.scss */
-  .bg-pink_white_off {
+  .bg-pink-white-off {
     background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 100%);
   }
 }
 
 /* line 127, ../sass/imports/_backgrounds.scss */
-.bg-pink_white {
-  background-color: #f1f1f1;
+.bg-pink-white {
+  background-color: #FFF;
   border-top: 1em solid #E10079;
 }
 @media (min-width: 768px) {
   /* line 127, ../sass/imports/_backgrounds.scss */
-  .bg-pink_white {
+  .bg-pink-white {
     border: none;
     background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 75%, #e10079 75%, #e10079 100%);
   }
 }
 @media (min-width: 1280px) {
   /* line 127, ../sass/imports/_backgrounds.scss */
-  .bg-pink_white {
+  .bg-pink-white {
     background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 100%);
   }
 }

@@ -324,12 +324,12 @@ nav {
 
 
 .sponsor {
-  margin-bottom: 1.5em;
+  border-bottom: $border-width solid $color_pink;
+  margin-bottom: 3em;
   img {
     display: inline-block;
     max-width: 320px;
-    width: 100%;
-    height: auto;
+    @include img-flex;
     margin-top: 1em;
     margin-bottom: 1em;
   }

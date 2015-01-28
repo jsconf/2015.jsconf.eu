@@ -920,13 +920,13 @@ article {
 }
 
 /* line 98, ../sass/imports/_backgrounds.scss */
-.bg-pink_white_off {
+.bg-pink-white_off {
   background-color: #f1f1f1;
   border-top: 1em solid #E10079;
 }
 @media (min-width: 768px) {
   /* line 98, ../sass/imports/_backgrounds.scss */
-  .bg-pink_white_off {
+  .bg-pink-white_off {
     border: none;
     background-image: -webkit-linear-gradient(right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 75%, #e10079 75%, #e10079 100%);
     background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 75%, #e10079 75%, #e10079 100%);
@@ -934,20 +934,20 @@ article {
 }
 @media (min-width: 1280px) {
   /* line 98, ../sass/imports/_backgrounds.scss */
-  .bg-pink_white_off {
+  .bg-pink-white_off {
     background-image: -webkit-linear-gradient(right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 100%);
     background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 100%);
   }
 }
 
 /* line 127, ../sass/imports/_backgrounds.scss */
-.bg-pink_white {
+.bg-pink-white {
   background-color: #f1f1f1;
   border-top: 1em solid #E10079;
 }
 @media (min-width: 768px) {
   /* line 127, ../sass/imports/_backgrounds.scss */
-  .bg-pink_white {
+  .bg-pink-white {
     border: none;
     background-image: -webkit-linear-gradient(right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 75%, #e10079 75%, #e10079 100%);
     background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 75%, #e10079 75%, #e10079 100%);
@@ -955,7 +955,7 @@ article {
 }
 @media (min-width: 1280px) {
   /* line 127, ../sass/imports/_backgrounds.scss */
-  .bg-pink_white {
+  .bg-pink-white {
     background-image: -webkit-linear-gradient(right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 100%);
     background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 calc((.75 * 1280px) + ((100% - 1280px)/2)), #e10079 100%);
   }
