@@ -7,11 +7,11 @@ figure: /img/what-next.jpg
 ---
 
 {% include post-header.html %}
-Mark your calendars: The Ticket Sale for JSConf EU 2015 will start on Sunday, February 1st at 6pm CEST. Read up on the [JSConf EU experience and what a ticket buys you](/why/ "WHY JSConf EU"). Set your alarms now :)
+Mark your calendars: The Ticket Sale for JSConf EU 2015 will start on Sunday, February 1st at 18:00 CEST. 
 
-<a class="btn" href="https://tito.io/jsconfeu/jsconf-eu-2014">Buy Ticket</a>
+<a class="btn" href="https://tito.io/jsconfeu/jsconf-eu-2015">Buy Ticket</a>
 
-
+JSConf EU is a professional, not-for-profit, labour-of-love conference for the JavaScript community that you don’t want to miss out on – Read up on the [JSConf EU experience and what a ticket buys you]({{ site.baseurl }}/why/ "WHY JSConf EU").
 
 ### Additional Information
 
