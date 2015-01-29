@@ -41,7 +41,7 @@ module.exports = function(grunt) {
             ],
             tasks: ['compass:dev'],
             options: {
-                atBegin: true
+              atBegin: true
             }
           },
           autoprefix: {

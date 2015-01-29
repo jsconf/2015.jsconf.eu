@@ -1,5 +1,6 @@
 body {
   font-size: 100%;
+  @include font-bernina;
 }
 
 body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2, h3, h4, h5, h6 {
@@ -30,6 +31,34 @@ body, caption, th, td, input, textarea, select, option, legend, fieldset, h1, h2
   ul, ol {
     list-style: disc;
     padding-left: 1em;
+  }
+}
+
+// Webfonts and FOUT
+.font-bernina {
+  @include font-bernina;
+}
+
+nav, h1, h2, h3, h4,
+.font-bernina-comp {
+  @include font-bernina-comp;  
+}
+
+.font-domus, .site-aside, .date, .btn {
+  @include font-domus;
+}
+
+.wf-loading {
+  h1, h2, h3, h4, h5, p, li, pre, blockquote, span {
+    visibility: hidden;
+  }
+}
+h1, h2, h3, h4, h5, p, li, pre, blockquote, span {
+  visibility: hidden;
+}
+.wf-active, .wf-inactive {
+  h1, h2, h3, h4, h5, p, li, pre, blockquote, span {
+    visibility: visible;
   }
 }
 

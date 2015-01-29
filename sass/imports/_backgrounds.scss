@@ -30,6 +30,7 @@
     image-url('jsconf-pattern.svg');
     background-repeat: repeat, repeat;
     background-position: 0 0, 0 0;
+    background-attachment: fixed;
   }
   @include bigscreen {
     background-image:

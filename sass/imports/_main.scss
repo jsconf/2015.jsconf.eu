@@ -3,7 +3,6 @@
 ///
 
 body {
-  @include font-bernina;
   font-size: 14px;
   line-height: 1.5em;
   color: $color_blue_dark;
@@ -22,23 +21,10 @@ body {
 }
 
 
-.font-bernina {
-  @include font-bernina;
-}
-
-nav, h1, h2, h3, h4,
-.font-bernina-comp {
-  @include font-bernina-comp;
-}
-
-.font-domus {
-  @include font-domus;
-}
-
 a {
   color: $color_pink;
   text-decoration: none;
-  transition: background-color 0.25s ease, color 0.25s ease;
+  transition: background-color 0.25s ease, color 0.25s ease, border-color 0.25s ease;
   &:hover, &:focus {
     color: $color_pink_light;
   }
@@ -71,23 +57,39 @@ nav {
 
 .btn {
   display: inline-block;
-  height: 3.81em; // 80px
-  line-height: 3.6em;
+  height: 4em;
+  line-height: 3.6;
+  font-size: 1.143em;
   width: 100%;
   max-width: 13.333em; // 280px;
-  background-color: $color_pink;
+  border: $border-width solid currentColor;
   color: $color_white;
-  @include font-domus;
+  @include wide-letterspacing;
   text-decoration: none;
   text-align: center;
   &:hover, &:focus {
-    background-color: $color_pink_light;
-    color: $color_white;
+    color: $color_pink_light;
   }
 }
 
+.bg-pink-white-off .btn, .bg-pink-white .btn,
+.btn-blue {
+  color: $color_blue;
+  &:hover, &:focus {
+    color: $color_pink;
+  }
+}
+
+// small CTA in navi
+.btn-nav {
+  font-size: .8751em;
+  max-width: 160px;
+  height: 2.2em;
+  line-height: 1.6;
+  float: right;
+}
+
 .date {
-  @include font-domus;
   @include text-small
 }
 
@@ -120,9 +122,10 @@ nav {
 }
 
 .wrapper-logo {
-  padding-top: 1.5em;
+  padding-top: 4.5em;
+  padding-bottom: 3em;
   @include desktop {
-    padding-top: 3em;
+    padding-top: 6em;
   }
 }
 
@@ -183,11 +186,20 @@ nav {
   a {
     flex-grow: 1;
     text-align: center;
+    margin-left: 2em;
+  }
+  .icon {
+    max-width: 2.5em;
+    margin-left: -.5em;
+    margin-right: -.5em;
+    padding-left: .5em;
+    padding-right: .5em;
   }
 }
 
 .icon {
   max-width: 1.5em;
+  line-height: 1;
   svg {
     height: 1.5em;
     width: 100%;
@@ -201,10 +213,10 @@ nav {
     margin-left: $site-padding;
   }
 }
+
 .social-nav {
-  max-width: 100px;
   .icon {
-    max-width: 1em;
+    max-width: 2em;
   }
 }
 
@@ -267,7 +279,6 @@ nav {
   }
   .btn {
     margin-bottom: 1.5em;
-    @include wide-letterspacing;
   }
 }
 
