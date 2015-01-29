@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ticket Sale for JSConf EU 2015 Starts
+title: Ticket Sale for JSConf EU 2015
 category: news
 tags: news
 figure: /img/what-next.jpg
@@ -12,6 +12,11 @@ Mark your calendars: The Ticket Sale for JSConf EU 2015 will start on Sunday, Fe
 <a class="btn" href="https://tito.io/jsconfeu/jsconf-eu-2015">Buy Ticket</a>
 
 JSConf EU is a professional, not-for-profit, labour-of-love conference for the JavaScript community that you don’t want to miss out on – Read up on the [JSConf EU experience and what a ticket buys you]({{ site.baseurl }}/why/ "WHY JSConf EU").
+
+### Diversity Support Tickets
+
+[Expanding on our program from last year](http://2014.jsconf.eu/news/2014/08/15/diversity-tickets.html) we are again offering Diversity Support Tickets. As last year you are purchasing a ticket for yourself and help another person of the conference's choosing to be able to attend the event.
+To make the program even more accessible we now offer a wider range of "Support Options". Starting with paying 25% of a ticket to paying for a full ticket. We thank you in advance for your generosity and awesomeness and looking forward to a more diverse JSConf EU than ever before.
 
 ### Additional Information
 
