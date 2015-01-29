@@ -48,6 +48,7 @@ nav, h1, h2, h3, h4,
   @include font-domus;
 }
 
+/* This trades chance of FOUC for ultra slow loading
 .wf-loading {
   h1, h2, h3, h4, h5, p, li, pre, blockquote, span {
     visibility: hidden;
@@ -59,6 +60,7 @@ nav, h1, h2, h3, h4,
     visibility: visible;
   }
 }
+*/
 
 .intro-p {
   font-size: 1.25em; //20px / 16px

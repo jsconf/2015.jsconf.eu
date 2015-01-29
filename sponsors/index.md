@@ -1,7 +1,7 @@
 ---
   layout: simple-page
-  title: Sponsors of JSConf EU 2015
-  title-short: Sponsors
+  title: Sponsorship for JSConf EU 2015
+  title-short: Sponsorship
   pattern: bg-pink-white
 ---
 
@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  These companies have supported us in the past:
+  These companies have supported us in 2014:
 </p>
 
 {% for post in sponsors %}
