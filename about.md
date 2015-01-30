@@ -36,7 +36,7 @@ JSConf EU is brought to you by these people:
 </p>
 
 <p class="curator">
-  <img alt='Jan Lehnardt' height='280' src='{{ site.baseurl }}/img/jan.png' width='280' />
+  <img alt='Jan Lehnardt' height='280' src='{{ site.baseurl }}/img/jan.jpg' width='280' />
   Jan Lehnardt |
   <a href='https://twitter.com/janl' target='_blank'>@janl</a>
 </p>
