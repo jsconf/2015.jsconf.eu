@@ -389,8 +389,6 @@ nav {
 
 figure {
   position: relative;
-  margin-right: auto;
-  margin-left: auto;
   margin-bottom: 1.5em;
   width: 100%;
   max-width: 420px;
@@ -400,22 +398,10 @@ figure {
     z-index: 1;
     position: relative;
   }
-//  &:before, &:after {
-//    z-index: 0;
-//    position: absolute;
-//    display: block;
-//    content: '';
-//    width: calc(100%);
-//    height: calc(100%);
-//    top: 3em;
-//    right: 3em;
-//    border:  3px solid red;
-//  }
-//  &:after {
-//    top: -3em;
-//    right: -3em;
-//    border:  3px solid white;
-//  }
+  @include tablet {
+    margin-right: auto;
+    margin-left: auto;
+  }
 }
 
 .nav-fixed, .js-sticky-nav.active {
