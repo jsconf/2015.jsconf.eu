@@ -28,7 +28,7 @@ module.exports = function(grunt) {
                 command: "LANG='en_US.UTF-8' LC_ALL='en_US.UTF-8' jekyll serve --safe --trace --baseurl ''"
             },
             jekyllBuild: {
-                command: "LANG='en_US.UTF-8' LC_ALL='en_US.UTF-8' jekyll build --safe --trace --config _config.yml,_config_dev.yml"
+                command: "LANG='en_US.UTF-8' LC_ALL='en_US.UTF-8' jekyll build --safe --trace"
             }
         },
 
