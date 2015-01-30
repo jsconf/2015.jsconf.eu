@@ -4,7 +4,7 @@ lsi: false
 name: JSconf.eu
 url:  http://2015.jsconf.eu
 twitter_username: jsconfeu
-baseurl: /
+baseurl: 
 
 speaker_map_base_url: "http://maps.googleapis.com/maps/api/staticmap?style=hue:0xfe006b&amp;size=640x163&amp;scale=2&amp;sensor=false&amp;zoom=5&amp;visual_refresh=1&amp;markers=color:"
 speaker_index_base_url: "http://maps.googleapis.com/maps/api/staticmap?style=hue:0xfe006b&amp;size=514x324&amp;sensor=false&amp;visual_refresh=1&amp;markers=color:"
