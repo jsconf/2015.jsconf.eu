@@ -1,6 +1,9 @@
 2015.jsconf.eu
 ==============
 
-Run:
-
+### Develop
 grunt
+
+### Deploy
+compass clean
+grunt release
