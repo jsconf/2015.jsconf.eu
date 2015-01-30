@@ -80,15 +80,15 @@ $bigscreen-width: 1280px;
 }
 
 @mixin font-bernina {
-  font-family: "jaf-bernina-sans", sans-serif;
+  font-family: "jaf-bernina-sans", Arial, sans-serif;
 }
 
 @mixin font-bernina-comp {
-  font-family: "jaf-bernina-sans-comp", 'Arial Narrow' sans-serif;
+  font-family: "jaf-bernina-sans-comp", 'Arial Narrow', sans-serif;
 }
 
 @mixin font-domus {
-  font-family: "jaf-domus-titling-web", sans-serif;
+  font-family: "jaf-domus-titling-web", Arial, sans-serif;
 }
 
 
