@@ -5,6 +5,7 @@ level: sponsor-main
 title: thinktecture
 permalink: "/sponsors/thinktecture.html"
 image: "/sponsors/images/thinktecture.png"
+link: "http://www.thinktecture.com"
 ---
 
 - We've been building HTML5/JS-apps together with our clients dev teams for several years
