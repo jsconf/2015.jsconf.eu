@@ -1,7 +1,7 @@
 ---
   layout: simple-page
   title: Sponsorship for JSConf EU 2015
-  title-short: Sponsorship
+  title-short: Sponsors
   pattern: bg-pink-white
 ---
 
