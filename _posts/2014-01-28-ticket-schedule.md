@@ -7,7 +7,7 @@ figure: /img/what-next.jpg
 ---
 
 {% include post-header.html %}
-Mark your calendars: The Ticket Sale for JSConf EU 2015 will start on Sunday, February 1st at 18:00 CEST.
+Mark your calendars: The Ticket Sale for JSConf EU 2015 will start on Sunday, February 1st at 18:00 CET.
 
 
 JSConf EU is a professional, not-for-profit, labour-of-love conference for the JavaScript community that you don’t want to miss out on – Read up on the [JSConf EU experience and what a ticket buys you]({{ site.baseurl }}/why/ "WHY JSConf EU").
