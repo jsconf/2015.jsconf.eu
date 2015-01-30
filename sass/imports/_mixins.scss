@@ -3,9 +3,14 @@ $tablet-width: 768px;
 $desktop-width: 1024px;
 $bigscreen-width: 1280px;
 
+
 @media (max-width: #{$tablet-width}) {
   .hide-mobile {display:none;}
 }
+@media (min-width: #{$tablet-width}) {
+  .show-mobile {display:none;}
+}
+
 
 
 @mixin bigphone {
