@@ -108,6 +108,10 @@ nav {
 }
 
 
+.bottom-margin {
+  margin-bottom: 1.5em;
+}
+
 
 //
 // LAYOUT
@@ -222,9 +226,11 @@ nav {
 }
 .icon-footer {
   display: block;
+  float: right;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
   @include tablet {
-    float: right;
-    margin-left: $site-padding;
+    margin: 0 0 0 $site-padding;
   }
 }
 
@@ -444,31 +450,6 @@ figure {
       height: auto;
     }
   }
-//  @include tablet {
-//    margin: 3em 3.5em;
-//    position: relative;
-//      &:before, &:after {
-//        z-index: -1;
-//        position: absolute;
-//        display: block;
-//        content: '';
-//        width: calc(100%);
-//        height: calc(100%);
-//        top: -1.5em;
-//        right: -3.5em;
-//        border: $border-width solid $color_pink;
-//      }
-//      &:before {
-//        top: 2.5em;
-//        right: 3.5em;
-//        border: none;
-//        background-color: $color-blue-dark;
-//        background-image: url(/img/jsconf-pattern.svg);
-//        background-repeat: repeat;
-//        background-position: 0 0;
-//        background-size: 75%;
-//      }
-//  }
 }
 
 
