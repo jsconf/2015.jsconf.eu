@@ -26,5 +26,6 @@ To make the program even more accessible we now offer a wider range of "Support 
 - You won’t need a Paypal account, but you can use one! (The other option is Stripe.)
 - You will be able to buy one ticket per order.
 - We will sell Combo Tickets with [CSSConf EU](http://2015.cssconf.eu) as well.
+- [Reject.js](http://rejectjs.org) tickets are sold separately.
 - [How we spend your money](http://2013.jsconf.eu/news/2013/06/15/how-we-spend-your-money.html).
 
