@@ -1,7 +1,7 @@
 ---
-  layout: default
-  title: JavaScript conference talk videos [JSConf EU 2014]
-  background: background_speakers
+  layout: sub-page
+  title: JavaScript conference talk videos of JSConf EU 2015
+  title-short: Videos
   tags: foo
   permalink: "/videos/"
 ---
