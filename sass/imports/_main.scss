@@ -71,14 +71,28 @@ nav {
     color: $color_pink_light;
   }
 }
+.btn-disabled {
+  &:hover, &:focus {
+    color: $color_white;
+    cursor: default;
+  }
+}
 
-.bg-pink-white-off .btn, .bg-pink-white .btn,
+.bg-pink-white-off .btn, 
+.bg-pink-white .btn,
 .btn-blue {
   color: $color_blue;
   &:hover, &:focus {
     color: $color_pink;
   }
+  .btn-disabled {
+    &:hover, &:focus {
+      color: $color_blue;
+    }
+  }
 }
+
+
 
 // small CTA in navi
 .btn-nav {
