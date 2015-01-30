@@ -14,7 +14,7 @@ module.exports = function(grunt) {
           },
           prod: {
             options: {
-              http_path: '/2015.jsconf.eu/',
+              http_path: '/',
               imagesDir: 'img',
               sassDir: 'sass',
               cssDir: 'stylesheets',
