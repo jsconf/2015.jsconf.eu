@@ -8,7 +8,7 @@
 
 > Our biggest reward as conference organisers is people doing great things with something they learned at or with someone they met at the conference.
 
-We are inviting the JavaScript community to attend the upcoming JSConf EU (September 13th-14th, Berlin). Ticket Sales start on February 1st 2015, and will also be [announced on our Twitter account](https://twitter.com/jsconfeu).
+We are inviting the JavaScript community to attend the upcoming JSConf EU (September 25th & 27th, Berlin). Ticket Sales start on February 1st 2015, and will also be [announced on our Twitter account](https://twitter.com/jsconfeu).
 
 <img
     src="{{ site.baseurl }}/img/jsconfeu-group-2014.jpg"
