@@ -4,6 +4,7 @@ title: Ticket Sale for JSConf EU 2015
 category: news
 tags: news
 figure: /img/what-next.jpg
+dateOverride: 28 January 2015
 ---
 
 {% include post-header.html %}

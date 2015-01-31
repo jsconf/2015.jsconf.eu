@@ -1,7 +1,11 @@
 <header>
   {% if page.date %}
     <span class="date">
-      {{ page.date | date_to_long_string }}
+      {% if page.dateOverride %}
+        {{ page.dateOverride }}
+      {% else %}
+        {{ page.date | date_to_long_string }}
+      {% endif %}
     </span>
   {% endif %}
   <h2>
