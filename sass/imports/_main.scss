@@ -18,6 +18,10 @@ body {
   @include bigscreen {
     font-size: 21px;
   }
+
+  &.start {
+    background: $color_blue_dark image-url('jsconf-pattern.svg') 0 0 repeat fixed;
+  }
 }
 
 
@@ -78,7 +82,7 @@ nav {
   }
 }
 
-.bg-pink-white-off .btn, 
+.bg-pink-white-off .btn,
 .bg-pink-white .btn,
 .btn-blue {
   color: $color_blue;

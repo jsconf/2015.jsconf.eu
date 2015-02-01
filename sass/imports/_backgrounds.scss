@@ -15,7 +15,7 @@
   $accent-color: $color_blue;
 
   @include text-light;
-  background-color: $main-color;
+  // background-color: $main-color;
   border-top: 1em solid $accent-color;
   @include tablet {
     border-top: none;
@@ -26,11 +26,9 @@
           transparent 25%,
           $accent-color 25%,
           $accent-color 100%
-        ),
-    image-url('jsconf-pattern.svg');
-    background-repeat: repeat, repeat;
-    background-position: 0 0, 0 0;
-    background-attachment: fixed;
+        );
+    background-repeat: repeat;
+    background-position: 0 0;
   }
   @include bigscreen {
     background-image:
@@ -40,8 +38,7 @@
           transparent calc((.25 * #{$wrapper-width}) + ((100% - #{$wrapper-width})/2)),
           $accent-color calc((.25 * #{$wrapper-width}) + ((100% - #{$wrapper-width})/2)),
           $accent-color 100%
-        ),
-    image-url('jsconf-pattern.svg');
+        );
   }
 }
 
@@ -49,15 +46,12 @@
   $main-color: $color_blue_dark;
   $accent-color: $color_blue;
 
-  background-color: $main-color;
   background-image:
     linear-gradient(
           to bottom,
           rgba(black, .5),
           rgba(black, .6) 100%
-      ),
-    image-url('jsconf-pattern.svg');
-  background-attachment: fixed;
+      );
   background-repeat: repeat;
   background-position: 0 0;
   border: none;
@@ -74,8 +68,7 @@
           to bottom,
           rgba(black, .5),
           rgba(black, .6) 100%
-        ),
-    image-url('jsconf-pattern.svg');
+        );
   }
   @include bigscreen {
     background-image:
@@ -90,8 +83,45 @@
             to bottom,
             rgba($main-color, .75),
             rgba($main-color, .8) 100%
-        ),
-    image-url('jsconf-pattern.svg');
+        );
+  }
+
+  &.nav-fixed {
+    background-color: $main-color;
+
+    @include tablet {
+      background-image:
+        linear-gradient(
+            to right,
+            transparent,
+            transparent 75%,
+            $accent-color 75%,
+            $accent-color 100%
+          ),
+        linear-gradient(
+            to bottom,
+            rgba(black, .5),
+            rgba(black, .6) 100%
+          ),
+        image-url('jsconf-pattern.svg');
+    }
+    @include bigscreen {
+      background-image:
+        linear-gradient(
+            to right,
+            transparent,
+            transparent calc((.75 * #{$wrapper-width}) + ((100% - #{$wrapper-width})/2)),
+            $accent-color calc((.75 * #{$wrapper-width}) + ((100% - #{$wrapper-width})/2)),
+            $accent-color 100%
+          ),
+        linear-gradient(
+              to bottom,
+              rgba($main-color, .75),
+              rgba($main-color, .8) 100%
+          ),
+        image-url('jsconf-pattern.svg');
+    }
+
   }
 }
 
@@ -158,13 +188,13 @@
 .bg-pat-top {
   $main-color: $color_blue_dark;
   $accent-color: $color_blue_dark;
-  
-  background-color: $main-color;
-  
+
+  // background-color: $main-color;
+
   border-color: $accent-color;
   border-top: 5em solid $accent-color;
 
-  border-image: image-url('jsconf-pattern.svg') 90 repeat;
+  // border-image: image-url('jsconf-pattern.svg') 90 repeat;
 
 }
 
