@@ -1,3 +1,4 @@
+// StickyNav by Robert https://github.com/rendro
 var createStickyNav = function($node, reqAnimFrame, className) {
 	className = className || 'active';
 
