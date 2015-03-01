@@ -11,7 +11,7 @@ dateOverride: 16 February 2015
 Mark your calendars: Here are the planned dates for ticket sales for JSConf EU 2015:
 
 - Sunday, March 1st at 18:00 CET — Last chance for Early Bird price 575€ + VAT + Fees **699€**.
-- Sunday, April 5st at 18:00 CET
+- Sunday, April 5th at 18:00 CET
 - Sunday, May 3rd at 18:00 CET
 
 ### Mind the Gap Day!
