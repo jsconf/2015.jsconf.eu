@@ -1,7 +1,7 @@
 ---
-  layout: default
+  layout: simple-page
   title: Call for Speakers
-  background: background1
+  title-short: About
 ---
 
 
@@ -9,14 +9,13 @@
 
 > “JSConf EU — This is your conference.”
 
-We are inviting the JavaScript community to submit talks for the upcoming JSConf EU (September 13th-14th, Berlin). This Call for Presentation **closes on June 20th**.
+We are inviting the JavaScript community to submit talks for the upcoming JSConf EU (Friday September 25th and Sunday 27th, Berlin). This Call for Presentation **closes on April 30th**.
 
 This is what we call a “Hybrid CFP”: If you think you have something great to talk about, tell us all about it and we consider your entry. If you know someone who has something great to talk about, nominate them. And if you are interested in hearing about a particular topic, nominate the topic, and we can try and find a match.
 
-
 ## Topics
 
-To get a feel for what we are interested in hearing about, here is the programme for the past years ([2009](http://jsconf.eu/2009/speakers.html), [2010](http://jsconf.eu/2010/speakers.html), [2011](http://jsconf.eu/2011/speakers.html), [2012](http://2012.jsconf.eu/speakers.html), [2013](http://2013.jsconf.eu/speakers/)).
+To get a feel for what we are interested in hearing about, here is the programme for the past years ([2009](http://jsconf.eu/2009/speakers.html), [2010](http://jsconf.eu/2010/speakers.html), [2011](http://jsconf.eu/2011/speakers.html), [2012](http://2012.jsconf.eu/speakers.html), [2013](http://2013.jsconf.eu/speakers/), [2014](http://2014.jsconf.eu/speakers/)).
 
 We like to see anything that squarely fits into the spectrum of:
 
@@ -165,4 +164,4 @@ Finally, since you retain full ownership of your slides and recording, we’d li
 
 ## Submit Your Talk
 
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dG5yeFMwVE1lWlpacG9oZll0ajlaYUE6MA" width="580" height="2140" frameborder="0" marginheight="0" marginwidth="0" style="margin-left:-10px">Loading&hellip;</iframe>
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=1zqPG104z9dOcb2eNO6lCgQJ1x3HGscbZYdqgKwh4h0o" width="580" height="2140" frameborder="0" marginheight="0" marginwidth="0" style="margin-left:-10px">Loading&hellip;</iframe>
