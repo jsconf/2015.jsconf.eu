@@ -164,4 +164,5 @@ Finally, since you retain full ownership of your slides and recording, we’d li
 
 ## Submit Your Talk
 
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=1zqPG104z9dOcb2eNO6lCgQJ1x3HGscbZYdqgKwh4h0o" width="580" height="2140" frameborder="0" marginheight="0" marginwidth="0" style="margin-left:-10px">Loading&hellip;</iframe>
+Fill out our talk proposal form:
+[https://bit.ly/jsconfeu-2015-cfp](https://bit.ly/jsconfeu-2015-cfp)
