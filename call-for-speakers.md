@@ -1,7 +1,7 @@
 ---
   layout: simple-page
   title: Call for Speakers
-  title-short: About
+  title-short: Call for Speakers
 ---
 
 
