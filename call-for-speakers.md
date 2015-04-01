@@ -138,7 +138,7 @@ Here’s a proposal that we accepted in 2012:
 
 ## Guidelines
 
-Submit your proposal by **April 31st 2015, 23:59:59 CEST**. No excuses.
+Submit your proposal by **April 30st 2015, 23:59:59 CEST**. No excuses.
 
 All talks are **in English**.
 
