@@ -20,7 +20,7 @@ To get a feel for what we are interested in hearing about, here is the programme
 We like to see anything that squarely fits into the spectrum of:
 
  * Cutting-edge technological advances in the world of JavaScript or computer science in general, if somehow applicable to JavaScript.
- * Incredible Ideas & Clever Hacks.
+ * Wild Ideas & Clever Hacks.
  * Improving JavaScript developers’ lives.
  * Mobile JS.
  * Embedded JS.
