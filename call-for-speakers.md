@@ -157,7 +157,7 @@ All talks are **in English**.
 
 All talks will be recorded and published on the internet for free, along with a recording of the slide deck, live-demo or other on-presenter-screen activity as well as a transcript and subtitles.
 
-We do this for the benefit of the larger JavaSciprt community and those who can’t make it to the conference. We hope you want to help out, but if you are in any way uncomfortable in any way, let us know and we will work things out.
+We do this for the benefit of the larger JavaScript community and those who can’t make it to the conference. We hope you want to help out, but if you are in any way uncomfortable, let us know and we will work things out.
 
 Finally, since you retain full ownership of your slides and recording, we’d like to ask you to make your materials and recording available under a creative commons (we default to no commercial reuse) or other open source license.
 
