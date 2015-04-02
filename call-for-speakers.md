@@ -1,7 +1,7 @@
 ---
-  layout: default
+  layout: simple-page
   title: Call for Speakers
-  background: background1
+  title-short: Call for Speakers
 ---
 
 
@@ -9,19 +9,18 @@
 
 > “JSConf EU — This is your conference.”
 
-We are inviting the JavaScript community to submit talks for the upcoming JSConf EU (September 13th-14th, Berlin). This Call for Presentation **closes on June 20th**.
+We are inviting the JavaScript community to submit talks for the upcoming JSConf EU (Friday September 25th and Sunday 27th, Berlin). This Call for Presentation **closes on April 30th**.
 
 This is what we call a “Hybrid CFP”: If you think you have something great to talk about, tell us all about it and we consider your entry. If you know someone who has something great to talk about, nominate them. And if you are interested in hearing about a particular topic, nominate the topic, and we can try and find a match.
 
-
 ## Topics
 
-To get a feel for what we are interested in hearing about, here is the programme for the past years ([2009](http://jsconf.eu/2009/speakers.html), [2010](http://jsconf.eu/2010/speakers.html), [2011](http://jsconf.eu/2011/speakers.html), [2012](http://2012.jsconf.eu/speakers.html), [2013](http://2013.jsconf.eu/speakers/)).
+To get a feel for what we are interested in hearing about, here is the programme for the past years ([2009](http://jsconf.eu/2009/speakers.html), [2010](http://jsconf.eu/2010/speakers.html), [2011](http://jsconf.eu/2011/speakers.html), [2012](http://2012.jsconf.eu/speakers.html), [2013](http://2013.jsconf.eu/speakers/), [2014](http://2014.jsconf.eu/speakers/)).
 
 We like to see anything that squarely fits into the spectrum of:
 
  * Cutting-edge technological advances in the world of JavaScript or computer science in general, if somehow applicable to JavaScript.
- * Crazy Ideas & Crazy Hacks.
+ * Wild Ideas & Clever Hacks.
  * Improving JavaScript developers’ lives.
  * Mobile JS.
  * Embedded JS.
@@ -101,11 +100,11 @@ If you get selected as a speaker at JSConf EU, here’s what you get:
 
  * **Entrance to the conference.** We won’t be done with the speaker selections by the end of the ticket sales, so if you want to make sure you can attend, you may want to purchase a ticket regardless. If you get selected to speak and if you need to, we can refund your ticket, but if we don’t, we can spend more money on making the conference more awesome.
 
- * **We cover your stay in Berlin** in a hotel near the venue (including free Wifi) for the days of the conference and a day before and after (i.e. September 12th-15th). If you want to stay longer, we can arrange things, just let us know. You will have to cover extra nights, though. There will be satellite events in the week before and possibly after JSConf.
+ * **We cover your stay in Berlin** in a hotel near the venue (including free Wifi) for the days of the conference and a day before and after (i.e. September 24th-28th). If you want to stay longer, we can arrange things, just let us know. You will have to cover extra nights, though. There will be satellite events in the week before and possibly after JSConf.
 
 <small>If your employer can cover your travel and hotel, we are happy to list them as an awesome company sponsor. The money we save will be used to make the conference more awesome. (You might see a pattern …)</small>
 
-If you have any special requirements, non-return trips (say you are coming from NodeDublin), just let us know, we can usually work these things out. Just note that every minute we spend on this, we don't spend on making the conference more awesome ;)
+If you have any special requirements, non-return trips (say you are coming from another conference), just let us know, we can usually work these things out. Just note that every minute we spend on this, we don't spend on making the conference more awesome ;)
 
 If you want to bring a significant other, or bring your kid(s) and need child-care to be sorted out for the time of the conference, please also get in touch. We are here to make this easy for you!
 
@@ -139,7 +138,7 @@ Here’s a proposal that we accepted in 2012:
 
 ## Guidelines
 
-Submit your proposal by **June 20th 2014, 23:59:59 CEST**. No excuses.
+Submit your proposal by **April 30st 2015, 23:59:59 CEST**. No excuses.
 
 All talks are **in English**.
 
@@ -156,13 +155,14 @@ All talks are **in English**.
 
 ## Misc
 
-All talks will be recorded and published on the internet for free, along with a recording of the slide deck, live-demo or other on-presenter-screen activity.
+All talks will be recorded and published on the internet for free, along with a recording of the slide deck, live-demo or other on-presenter-screen activity as well as a transcript and subtitles.
 
-We do this for the benefit of the larger JS community and those who can’t make it to the conference. We hope you want to help out, but if you are in any way uncomfortable in any way, let us know and we will work things out.
+We do this for the benefit of the larger JavaScript community and those who can’t make it to the conference. We hope you want to help out, but if you are in any way uncomfortable, let us know and we will work things out.
 
 Finally, since you retain full ownership of your slides and recording, we’d like to ask you to make your materials and recording available under a creative commons (we default to no commercial reuse) or other open source license.
 
 
 ## Submit Your Talk
 
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dG5yeFMwVE1lWlpacG9oZll0ajlaYUE6MA" width="580" height="2140" frameborder="0" marginheight="0" marginwidth="0" style="margin-left:-10px">Loading&hellip;</iframe>
+Fill out our talk proposal form:
+[https://bit.ly/jsconfeu-2015-cfp](https://bit.ly/jsconfeu-2015-cfp)
