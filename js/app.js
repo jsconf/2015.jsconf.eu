@@ -27,11 +27,9 @@ var createStickyNav = function($node, reqAnimFrame, className) {
 };
 
 $(function() {
-
-  // Sticky that nav up
-  var $nav = $('.js-sticky-nav')
-  if ($nav.length) {
-	  createStickyNav($nav, window.requestAnimationFrame)
+	// Sticky that nav up
+	var $nav = $('.js-sticky-nav')
+	if ($nav.length) {
+		createStickyNav($nav, window.requestAnimationFrame)
 	}
-
 })
