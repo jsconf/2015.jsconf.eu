@@ -10,7 +10,6 @@ dateOverride: 16 February 2015
 {% include post-header.html %}
 Mark your calendars: Here are the planned dates for ticket sales for JSConf EU 2015:
 
-- Sunday, April 5th at 18:00 CEST — Regular Price 620€ + VAT + Fees **749€**
 - Sunday, May 3rd at 18:00 CEST — Regular Price 620€ + VAT + Fees **749€**
 
 ### Mind the Gap Day!
