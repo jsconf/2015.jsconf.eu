@@ -38,5 +38,5 @@ In case you can’t find a staff member, Tiffany Conroy is always there for you:
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
-We expect participants to follow these rules at conference and workshop venues and conference-related social events.
+We expect participants to follow these rules at conference and workshop venues, conference-related social events and social media.
 
