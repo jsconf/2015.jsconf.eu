@@ -6,6 +6,9 @@ var createStickyNav = function($node, reqAnimFrame, className) {
 	var isSticky;
 	var lastPos = -1;
 	var stickyTop = ~~($node.offset().top);
+	var $clone = $node.clone();
+
+	$clone.insertAfter($node).hide();
 
 	var loop = function() {
 		reqAnimFrame(loop);
@@ -17,17 +20,16 @@ var createStickyNav = function($node, reqAnimFrame, className) {
 		if (_isSticky === isSticky) return;
 		isSticky = _isSticky;
 		lastPos = pos;
-		$node.toggleClass(className, isSticky);
-
+		$clone.toggle(isSticky).toggleClass(className, isSticky);
 	};
 
 	loop();
 };
 
 $(function() {
-
-  // Sticky that nav up
-  var $nav = $('.js-sticky-nav')
-  createStickyNav($nav, window.requestAnimationFrame)
-
+	// Sticky that nav up
+	var $nav = $('.js-sticky-nav')
+	if ($nav.length) {
+		createStickyNav($nav, window.requestAnimationFrame)
+	}
 })
