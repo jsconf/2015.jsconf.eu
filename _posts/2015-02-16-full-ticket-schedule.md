@@ -16,7 +16,7 @@ Mark your calendars: Here are the planned dates for ticket sales for JSConf EU 2
 
 This year, we are introducing a gap day. The first day of JSConf EU is on a **Friday**, [CSSConf EU](http://2015.cssconf.eu) is on Saturday, followed by the second day of JSConf EU on the **Sunday**.
 
-What is going on on the Saturday, you wonder? If you are interested in CSS, definitely you should attend CSSConf EU that day. For everyone else, including the wider developer community in Berlin, we invite you to socialize with each other and see the city. Smaller events that day, and in fact that whole week, will be accounced at the soon to be launched “Web Tech Fest Berlin” site. Stay tuned.
+What is going on on the Saturday, you wonder? If you are interested in CSS, definitely you should attend CSSConf EU that day. For everyone else, including the wider developer community in Berlin, we invite you to socialize with each other and see the city. Smaller events that day, and in fact that whole week, will be accounced at the soon to be launched [“Web Tech Fest Berlin”](http://wwwtf.berlin) site. Stay tuned.
 
 ### What to expect at JSConf EU
 
