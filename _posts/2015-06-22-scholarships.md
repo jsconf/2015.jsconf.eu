@@ -9,9 +9,9 @@ dateOverride: 22 June 2015
 
 {% include post-header.html %}
 
-We are striving for the most diverse group of people possible — we firmly believe in equality, thus we invite everyone and anyone to participate. In order to make this possible, we are proud to announce our scholarship programme for people who would otherwise be unable to participate.
+We are striving for the most diverse group of people possible — **we firmly believe in equality**, thus we invite everyone and anyone to participate. In order to make this possible, we are proud to announce our scholarship programme for people who would otherwise be unable to participate.
 
-Our scholarship fund will support about sixty people to attend JSConf EU and/or CSSconf EU. Scholarships are fully sponsored (i.e. free) tickets that are awarded after an application process and lottery. Travel expenses and accommodation, if required, will also be awarded.
+Our scholarship fund will support about **sixty people** to attend JSConf EU and/or CSSconf EU. Scholarships are **fully sponsored (i.e. free)** tickets that are awarded after an application process and lottery. Travel expenses and accommodation, if required, will also be awarded.
 
 Anyone from an underrepresented group in tech is invited to apply for this scholarship. This includes, but is not limited to: women, people of colour, LGBTQI people, disabled people, and people facing economic or social hardships.
 
