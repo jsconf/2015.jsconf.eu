@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scholarships for JSConf EU and CSSconf EU 2015
+title: Scholarships for JSConf EU & CSSconf EU 2015
 category: news
 tags: news
 figure: /img/what-next.jpg
