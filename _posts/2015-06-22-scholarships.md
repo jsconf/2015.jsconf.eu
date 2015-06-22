@@ -13,7 +13,7 @@ We are striving for the most diverse group of people possible — **we firmly be
 
 Our scholarship fund will support about **sixty people** to attend JSConf EU and/or CSSconf EU. Scholarships are **fully sponsored (i.e. free)** tickets that are awarded after an application process and lottery. Travel expenses and accommodation, if required, will also be awarded.
 
-Anyone from an underrepresented group in tech is invited to apply for this scholarship. This includes, but is not limited to: women, people of colour, LGBTQI people, disabled people, and people facing economic or social hardships.
+Anyone from an underrepresented group in tech is invited to apply for this scholarship. This includes, but is not limited to: women, people of colour, LGBTQIA+ people, disabled people, and people facing economic or social hardships.
 
 The application process is simple: Tell us about what you do with JS or CSS, and why you want to attend JSConf EU or CSSconf EU.
 
