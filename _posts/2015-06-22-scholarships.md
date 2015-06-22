@@ -17,7 +17,7 @@ Anyone from an underrepresented group in tech is invited to apply for this schol
 
 The application process is simple: Tell us about what you do with JS or CSS, and why you want to attend JSConf EU or CSSconf EU.
 
-→ [Apply now for the JSConf EU / CSSconf EU Scholarship](https://docs.google.com/forms/d/1NKSwnoWOVgFu0F_04rQyouJM0kOJPTs_cX2yndoU5Qk/viewform?usp=send_form)
+**→ [Apply now for the JSConf EU / CSSconf EU Scholarship](https://docs.google.com/forms/d/1NKSwnoWOVgFu0F_04rQyouJM0kOJPTs_cX2yndoU5Qk/viewform?usp=send_form)**
 
 Here is a bit more information about the process that might help you during your application:
 
@@ -31,6 +31,6 @@ Here is a bit more information about the process that might help you during your
 
 Scholarships are made possible by a joint effort of JSConf EU and CSSconf EU attendees and sponsors. Our attendees have raised over 40,000 EUR for scholarship tickets to the conferences. Sponsors are still raising the funds to pay for travel and accommodation. We are very proud to be part of this community for showing their support of this initiative. **Thank you!**
 
-→ [Apply now for the JSConf EU / CSSconf EU Scholarship](https://docs.google.com/forms/d/1NKSwnoWOVgFu0F_04rQyouJM0kOJPTs_cX2yndoU5Qk/viewform?usp=send_form)
+**→ [Apply now for the JSConf EU / CSSconf EU Scholarship](https://docs.google.com/forms/d/1NKSwnoWOVgFu0F_04rQyouJM0kOJPTs_cX2yndoU5Qk/viewform?usp=send_form)**
 
 Submissions are due end of day July 12, CEST (i.e. Berlin time)
