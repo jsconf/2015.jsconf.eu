@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: Rendering HTML via WebGL – Denis Radin
 permalink: /speakers/denis-radin-rendering-html-via-webgl.html

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: RegExp.prototype.unicode – Mathias Bynens
 permalink: /speakers/mathias-bynens-regexpprototypeunicode.html

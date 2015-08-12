@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: Functional programming and curry cooking in JS – Stefanie Schirmer
 permalink: /speakers/stefanie-schirmer-functional-programming-and-curry-cooking-in-js.html

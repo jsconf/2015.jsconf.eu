@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: "Horse Drawing Tycoon: The World's Best Horse Drawing Simulator – Curtis Lassam"
 permalink: /speakers/curtis-lassam-horse-drawing-tycoon-the-worlds-best-horse-drawing-simulator.html

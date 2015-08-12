@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: 'Good Tech for Hard Places: Fighting Ebola with Javascript Offline Apps – Patricia Garcia'
 permalink: /speakers/patricia-garcia-good-tech-for-hard-places-fighting-ebola-with-javascript-offline-apps.html

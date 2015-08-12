@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: Applying Structural Web App Diagrams – Ola Adedoyin
 permalink: /speakers/ola-adedoyin-applying-3d-engineering-drawing-techniques.html

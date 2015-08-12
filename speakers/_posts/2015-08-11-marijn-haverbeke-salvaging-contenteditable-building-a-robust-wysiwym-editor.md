@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: 'Salvaging contentEditable: Building a Robust WYSIWYM Editor – Marijn Haverbeke'
 permalink: /speakers/marijn-haverbeke-salvaging-contenteditable-building-a-robust-wysiwym-editor.html

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: The year of the peer-to-peer web – Thomas Gorissen
 permalink: /speakers/thomas-gorissen-the-year-of-the-peertopeer-web.html

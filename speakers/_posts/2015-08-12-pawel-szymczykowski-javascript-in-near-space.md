@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: JavaScript in (Near) Space – Pawel Szymczykowski
 permalink: /speakers/pawel-szymczykowski-javascript-in-near-space.html

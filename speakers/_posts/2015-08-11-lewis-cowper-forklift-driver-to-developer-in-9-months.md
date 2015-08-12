@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: Forklift Driver to Developer in 9 Months – Lewis Cowper
 permalink: /speakers/lewis-cowper-forklift-driver-to-developer-in-9-months.html
