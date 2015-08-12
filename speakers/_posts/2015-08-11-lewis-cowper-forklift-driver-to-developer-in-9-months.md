@@ -9,7 +9,7 @@ website: 'http://lewis.red/'
 twitter: 'https://twitter.com/lewiscowper'
 github: 'https://github.com/lewiscowper/'
 gplus: ''
-from: 'United Kingdom, Rotherham'
+from: 'Berlin, Germany'
 description: >-
   Moving up the ladder from forklift driver and general labourer, to front end
   developer, with a stint in manual testing, was a big challenge. However it's
