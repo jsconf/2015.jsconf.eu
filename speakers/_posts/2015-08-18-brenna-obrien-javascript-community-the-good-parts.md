@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: "JavaScript Community: The Good Parts – Brenna O'Brien"
 permalink: /speakers/brenna-obrien-javascript-community-the-good-parts.html
