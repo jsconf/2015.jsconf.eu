@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: 'OnConnectionLost: The life of an offline web application – Stefanie Grewenig'
 permalink: /speakers/stefanie-grewenig-onconnectionlost-the-life-of-an-offline-web-application.html
