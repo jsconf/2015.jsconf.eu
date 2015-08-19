@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: Time zone of your life – Gilmore Davidson
 permalink: /speakers/gilmore-davidson-time-zone-of-your-life.html
