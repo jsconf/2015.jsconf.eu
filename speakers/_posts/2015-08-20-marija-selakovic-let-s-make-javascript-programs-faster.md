@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: speaker-page
 tags: speaker
 title: Let’s make JavaScript programs faster – Marija Selakovic
 permalink: /speakers/marija-selakovic-let-s-make-javascript-programs-faster.html
