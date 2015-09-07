@@ -1,10 +1,10 @@
 ---
 layout: sponsor-page
 tags: sponsor
-level: sponsor-main
+level: sponsor-support
 title: GoCardless
 permalink: "/sponsors/gocardless.html"
-image: "/sponsors/images/gocardless.png"
+image: "/sponsors/images/gocardless.svg"
 link: "https://gocardless.com/"
 ---
 
