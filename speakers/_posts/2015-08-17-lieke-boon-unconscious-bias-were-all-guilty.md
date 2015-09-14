@@ -18,9 +18,12 @@ description: >+
   pool of opportunity. In this talk we’ll examine the reasons behind the
   gender­gap in IT by going on a small trip and we'll figure out what we can do
   to make our community better in only a couple days!
-
-
-imageUrlProvidedBySpeaker: 'https://pbs.twimg.com/profile_images/595939418155823105/m1e6fq1q.jpg'
+image:
+  height: 300
+  width: 300
+  type: jpg
+  heightSite: 200
+  filename: /speakers/images/lieke-boon.jpg
 ---
 
 {% include speaker.md %}
