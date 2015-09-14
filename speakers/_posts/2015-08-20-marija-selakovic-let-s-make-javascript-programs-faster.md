@@ -16,6 +16,13 @@ description: >-
   code. Many of these optimizations are caused by misuse of popular APIs or
   statements that disable compiler optimizations. Moreover, most optimizations
   affect only a small number of statements.
+image:
+  height: 561
+  width: 541
+  type: jpg
+  heightSite: 207
+  filename: /speakers/images/marija-selakovic.jpg
+
 ---
 
 {% include speaker.md %}
