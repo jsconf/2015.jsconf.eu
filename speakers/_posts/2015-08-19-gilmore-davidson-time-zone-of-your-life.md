@@ -15,8 +15,6 @@ description: >-
   and most likely your users won’t even notice. Get them wrong and you can end up
   increasing racial tensions in the Middle East.
 
-
-
   As we embed ourselves further into this Brave New World of JS Everywhere, let
   us not forget the basic lessons from before JS existed. This talk will explain
   the oddities, pitfalls, and ever-changing nature of time zones, so that you may
