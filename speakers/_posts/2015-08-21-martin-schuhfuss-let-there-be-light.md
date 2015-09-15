@@ -28,7 +28,12 @@ description: >-
 
   Can we use these tricks to even control professional light-equipment on stage?
   You'll see.
-imageUrlProvidedBySpeaker: 'https://pbs.twimg.com/profile_images/2730513000/a93bd562383e9eb16acf5b7189317d25.jpeg'
+image:
+  height: 1057
+  width: 1429
+  type: png
+  heightSite: 148
+  filename: /speakers/images/martin-schuhfuss.png
 ---
 
 {% include speaker.md %}
