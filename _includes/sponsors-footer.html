@@ -46,6 +46,16 @@
               </a>
             {% endif %}
           {% endfor %}
+        
+          <br>
+
+        {% for post in sponsors %}
+            {% if.post.level == "sponsor-verycustom" %}
+              <a href="{{ site.baseurl }}{{ post.permalink }}">
+                <img src="{{ site.baseurl }}{{ post.image }}" title="{{ post.title }}">
+              </a>
+            {% endif %}
+          {% endfor %}
         </div>
 
     </div>
