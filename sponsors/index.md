@@ -9,11 +9,11 @@
 {% assign overview=true %}
 
 <p>
-  We are currently offering sponsorship packages and media partnerships for JSConf EU 2015. <a href="mailto:contact@jsconf.eu">Contact us for details</a>.
+  We are still offering sponsorship packages and partnerships for JSConf EU 2015. <a href="mailto:contact@jsconf.eu">Contact us for details</a>.
 </p>
 
 <p>
-  These companies have supported us in 2014:
+  These companies are our supporters in 2015:
 </p>
 
 {% for post in sponsors %}
@@ -23,7 +23,7 @@
     <h4>
       <a href="{{ site.baseurl }}{{post.permalink}}">{{ post.title }}</a>
     </h4>
-    <!-- {{ post.content }} -->
+    {{ post.content }}
   </div>
   {% endif %}
 {% endfor %}
@@ -35,7 +35,7 @@
     <h4>
       <a href="{{ site.baseurl }}{{post.permalink}}">{{ post.title }}</a>
     </h4>
-    <!-- {{ post.content }} -->
+    {{ post.content }}
   </div>
   {% endif %}
 {% endfor %}
@@ -47,7 +47,7 @@
     <h4>
       <a href="{{ site.baseurl }}{{post.permalink}}">{{ post.title }}</a>
     </h4>
-    <!-- {{ post.content }} -->
+    {{ post.content }}
   </div>
   {% endif %}
 {% endfor %}
@@ -59,8 +59,19 @@
     <h4>
       <a href="{{ site.baseurl }}{{post.permalink}}">{{ post.title }}</a>
     </h4>
-    <!-- {{ post.content }} -->
+    {{ post.content }}
   </div>
   {% endif %}
 {% endfor %}
 
+{% for post in sponsors %}
+  {% if.post.level == "sponsor-verycustom" %}
+  <div class="sponsor">
+    <a href="{{ site.baseurl }}{{post.permalink}}"><img src="{{ site.baseurl }}{{post.image}}" class="img-flex" /></a>
+    <h4>
+      <a href="{{ site.baseurl }}{{post.permalink}}">{{ post.title }}</a>
+    </h4>
+    {{ post.content }}
+  </div>
+  {% endif %}
+{% endfor %}
