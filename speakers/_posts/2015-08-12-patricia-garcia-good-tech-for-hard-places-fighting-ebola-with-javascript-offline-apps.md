@@ -18,8 +18,6 @@ description: >-
   of building good tech for hard places, where a stable internet connection is
   rare and emergencies are real.
 
-
-
   There are a lot of awesome technologies (e.g. CouchDB and PouchDB) out there to
   help you build offline applications. There is also no shortage of beginner
   level online tutorials to show you how to do a quick and nice first prototype,
@@ -28,7 +26,13 @@ description: >-
   be used in the “real” world. This talk will present some of these problems as
   well as the solutions we came up with, including some open source tools
   developed by ourselves.
-imageUrlProvidedBySpeaker: 'https://www.dropbox.com/s/kj8bwmtv5oku9de/profile.jpg?dl=0'
+image:
+  height: 1075
+  width: 1234
+  type: jpg
+  heightSite: 174
+  filename: /speakers/images/patricia-garcia.jpg
+
 ---
 
 {% include speaker.md %}
