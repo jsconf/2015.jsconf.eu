@@ -1,5 +1,5 @@
 
-<p>Looking for the talk schedule? Links to various versions are <a href="/news/2014/09/09/the-schedule.html">here</a>.</p>
+<p>Looking for the talk schedule? Links to various versions are <a href="/news/2015/09/14/talk-schedule/">here</a>.</p>
 
 <p>
   For even more JavaScript-related goodness, make sure to check out the week-long <b><a href="http://jsfest.berlin/">jsfest.berlin</a></b> in the days around JSConf.
