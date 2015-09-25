@@ -75,3 +75,19 @@
   </div>
   {% endif %}
 {% endfor %}
+
+<div class="sponsor">
+  <h4>
+    Travel sponsors
+  </h4>
+  <ul>
+    <li>Atlassian<Uli>
+    <li>VhTO<Uli>
+    <li>Namely<Uli>
+    <li>ThoughtWorks<Uli>
+    <li>Angefragt<Uli>
+    <li>Opera Software ASA<Uli>
+    <li>Zendesk<Uli>
+    <li>Google<Uli>
+  </ul>
+</div>
