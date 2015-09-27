@@ -11,12 +11,12 @@ image: /img/top_disco.jpg
 
 {% include post-header.html %}
 
-For the JSConf EU After Party on Sunday, September 14, [Hood.ie](http://hood.ie), [SoundCloud](https://soundcloud.com) and [&yet](https://andyet.com) invite you to return to the [Boat Hoppetosse](http://www.arena-berlin.de/hoppetosse/) with DJs & **free** drinks.
+For the JSConf EU After Party on Sunday, September 27, [Hood.ie](http://hood.ie), [SoundCloud](https://soundcloud.com) and [&yet](https://andyet.com) invite you to return to the [Boat Hoppetosse](http://www.arena-berlin.de/hoppetosse/) with DJs & **free** drinks.
 
 {% assign image_url="http://2014.jsconf.eu/img/hoppetosse.jpg" %}
 {% include image.md %}
 
-The password at the door is “I love JavaScript”, or a JSConf EU badge.
+Show your JSConf EU badge at the door.
 **ps: The boat is docked the WHOLE time.**
 
 - Time: 20:00
