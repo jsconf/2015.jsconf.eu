@@ -9,6 +9,8 @@ image: /img/top_disco.jpg
 
 {% assign map_url="https://www.google.com/maps/place/Hoppetosse/@52.497528,13.454715,17z/data=!3m1!4b1!4m2!3m1!1s0x47a84e5573a0df1d:0xfa102535b24107b5" %}
 
+{% include post-header.html %}
+
 For the JSConf EU After Party on Sunday, September 14, [Hood.ie](http://hood.ie), [SoundCloud](https://soundcloud.com) and [&yet](https://andyet.com) invite you to return to the [Boat Hoppetosse](http://www.arena-berlin.de/hoppetosse/) with DJs & **free** drinks.
 
 {% assign image_url="http://2014.jsconf.eu/img/hoppetosse.jpg" %}
