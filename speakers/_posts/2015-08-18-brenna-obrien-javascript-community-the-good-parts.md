@@ -7,7 +7,7 @@ speaker: "Brenna O'Brien"
 talk: 'JavaScript Community: The Good Parts'
 website: 'http://brennaobrien.com'
 twitter: 'https://twitter.com/brnnbrn'
-github: 'http://github.com/brenna'
+github: 'https://github.com/brenna'
 gplus: ''
 from: 'Toronto, Canada'
 description: >-

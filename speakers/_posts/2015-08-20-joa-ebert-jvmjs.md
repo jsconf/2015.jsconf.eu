@@ -5,7 +5,7 @@ title: JVM/JS – Joa Ebert
 permalink: /speakers/joa-ebert-jvmjs.html
 speaker: Joa Ebert
 talk: JVM/JS
-website: 'https://joa-ebert.com/'
+website: 'https://www.joa-ebert.com/'
 twitter: 'https://twitter.com/joa'
 github: 'https://github.com/joa/'
 gplus: 'https://plus.google.com/+JoaEbert/'

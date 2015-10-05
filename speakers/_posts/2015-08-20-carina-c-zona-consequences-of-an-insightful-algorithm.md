@@ -7,7 +7,7 @@ speaker: Carina C. Zona
 talk: Consequences of an Insightful Algorithm
 website: 'http://cczona.com'
 twitter: 'https://twitter.com/cczona'
-github: 'http://github.com/cczona'
+github: 'https://github.com/cczona'
 gplus: ''
 from: 'San Francisco, CA, USA'
 description: >-

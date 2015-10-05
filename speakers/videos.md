@@ -14,7 +14,7 @@
 <h1>Videos</h1>
 
 <p>
-  Subscribe to our <a href="http://www.youtube.com/jsconfeu" target="_blank">YouTube channel.</a>
+  Subscribe to our <a href="https://www.youtube.com/user/jsconfeu" target="_blank">YouTube channel.</a>
 </p>
 
 {% for post in speakers %}

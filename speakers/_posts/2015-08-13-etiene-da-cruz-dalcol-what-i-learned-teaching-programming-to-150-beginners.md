@@ -7,7 +7,7 @@ speaker: Etiene da Cruz Dalcol
 talk: What I learned teaching programming to 150 beginners
 website: 'http://etiene.net'
 twitter: 'https://twitter.com/etiene_d'
-github: 'http://github.com/Etiene'
+github: 'https://github.com/Etiene'
 gplus: ''
 from: France (Brest)
 description: >-

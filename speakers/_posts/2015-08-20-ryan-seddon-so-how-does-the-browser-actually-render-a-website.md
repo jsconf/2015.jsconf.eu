@@ -5,7 +5,7 @@ title: So how does the browser actually render a website – Ryan Seddon
 permalink: /speakers/ryan-seddon-so-how-does-the-browser-actually-render-a-website.html
 speaker: Ryan Seddon
 talk: So how does the browser actually render a website
-website: 'http://ryanseddon.com'
+website: 'https://ryanseddon.com'
 twitter: 'https://twitter.com/ryanseddon'
 github: 'https://github.com/ryanseddon'
 gplus: ''

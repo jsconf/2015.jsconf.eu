@@ -5,7 +5,7 @@ title: The Risks and Rewards of Getting Involved and How to Do It – Bryan Hugh
 permalink: /speakers/bryan-hughes-the-risks-and-rewards-of-getting-involved-and-how-to-do-it.html
 speaker: Bryan Hughes
 talk: The Risks and Rewards of Getting Involved and How to Do It
-website: 'http://medium.com/@nebrius/'
+website: 'https://medium.com/@nebrius/'
 twitter: 'https://twitter.com/nebrius'
 github: 'https://github.com/nebrius'
 gplus: ''
