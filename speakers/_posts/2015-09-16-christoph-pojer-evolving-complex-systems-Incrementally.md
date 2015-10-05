@@ -5,8 +5,8 @@ title: Evolving Complex Systems Incrementally - Christoph Pojer
 permalink: /speakers/2015-09-16-christoph-pojer-evolving-complex-systems-Incrementally.html
 speaker: Christoph Pojer
 talk: Evolving Complex Systems Incrementally
-website: 'http://http://cpojer.net'
-twitter: ''
+website: 'http://cpojer.net'
+twitter: 'https://twitter.com/cpojer'
 github: 'https://github.com/cpojer'
 gplus: ''
 from: 'Palo Alto'

@@ -7,7 +7,7 @@ speaker: Sam Richard
 talk: Domo Arigato Mr. Roboto
 website: 'http://snugug.com'
 twitter: 'https://twitter.com/snugug'
-github: 'http://github.com/snugug'
+github: 'https://github.com/snugug'
 gplus: ''
 from: United States
 description: >-

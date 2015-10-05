@@ -11,7 +11,7 @@ image: /img/top_disco.jpg
 
 {% include post-header.html %}
 
-For the JSConf EU After Party on Sunday, September 27, [Hood.ie](http://hood.ie), [SoundCloud](https://soundcloud.com) and [&yet](https://andyet.com) invite you to return to the [Boat Hoppetosse](http://www.arena-berlin.de/hoppetosse/) with DJs & **free** drinks.
+For the JSConf EU After Party on Sunday, September 27, [Hood.ie](http://hood.ie), [SoundCloud](https://soundcloud.com) and [&yet](https://andyet.com) invite you to return to the [Boat Hoppetosse](http://hoppetosse.berlin/) with DJs & **free** drinks.
 
 {% assign image_url="http://2014.jsconf.eu/img/hoppetosse.jpg" %}
 {% include image.md %}

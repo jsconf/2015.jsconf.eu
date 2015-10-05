@@ -14,7 +14,7 @@
 ## Need Help? Contact Tiffany
 
 Tiffany Conroy
-Twitter: [@theophani](http://twitter.com/theophani)
+Twitter: [@theophani](https://twitter.com/theophani)
 Email: [tiffany@jsconf.eu](mailto:tiffany@jsconf.eu)
 Phone(de): +4917632578373
 
@@ -34,7 +34,7 @@ If a participant engages in harassing behavior, the conference organizers may ta
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by a black conference shirt with a pink or black square JSConf EU logo.
 
-In case you can’t find a staff member, Tiffany Conroy is always there for you: [@theophani](http://twitter.com/theophani), [tiffany@jsconf.eu](mailto:tiffany@jsconf.eu), +4917632578373.
+In case you can’t find a staff member, Tiffany Conroy is always there for you: [@theophani](https://twitter.com/theophani), [tiffany@jsconf.eu](mailto:tiffany@jsconf.eu), +4917632578373.
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
