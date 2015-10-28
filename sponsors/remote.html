@@ -8,7 +8,7 @@ var v = location.search.substr(1);
 if (!(/^\d+$/.test(v))) return;
 var u = 'https://3p.ampproject.net/'+encodeURIComponent(v)+'/f.js';
 document.write('<script'+' src="'+encodeURI(u)+'"><'+'/script>');
-}();
+})();
 </script>
 </head>
 <body style="margin:0">
