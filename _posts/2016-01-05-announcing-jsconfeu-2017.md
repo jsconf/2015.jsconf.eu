@@ -23,7 +23,7 @@ But don’t despair! There are A LOT of JSConfs going on in 2016, you just have 
 
 - [JSConf Iceland](http://jsconf.is)
 - [JSConf Beirut](http://www.jsconfbeirut.com)
-- [JSConf Budapest](http://jsconf.is)
+- [JSConf Budapest](http://jsconfbp.com)
 - [JSConf Uruguay](https://jsconf.uy)
 - [JSConf Belgium](http://jsconf.be/)
 - [JSConf Asia](http://jsconf.asia)
