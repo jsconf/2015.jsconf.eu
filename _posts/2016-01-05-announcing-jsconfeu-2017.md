@@ -17,7 +17,7 @@ We’re thrilled to announce **JSConf EU 2017**! That’s right, [together with 
 
 It’s been a fantastic SEVEN years running JSConf EU, learning a lot with each event and using it to improve the next. JSConf EU 2015 [was magic](https://www.youtube.com/watch?v=lJ1kY-CSpBk&list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd), it topped expectations and we are all really happy and proud to have taken part in its making.
 
-Yet, the organisation and running of a conference is a taxing endeavour. Like [CSSconf EU](http://2015.jsconf.eu/), JSConf EU is organised by volunteers who dedicate much of their spare time to deliver the best event possible and after seven years we feel a little worn out. So, we've agreed that now would be a good time to take a break, recharge, and come back better than ever! 
+Yet, the organisation and running of a conference is a taxing endeavour. Like [CSSconf EU](http://2015.cssconf.eu/), JSConf EU is organised by volunteers who dedicate much of their spare time to deliver the best event possible and after seven years we feel a little worn out. So, we've agreed that now would be a good time to take a break, recharge, and come back better than ever! 
 
 But don’t despair! There are A LOT of JSConfs going on in 2016, you just have to take your pick:
 
