@@ -22,7 +22,6 @@ Yet, the organisation and running of a conference is a taxing endeavour. Like [C
 But don’t despair! There are A LOT of JSConfs going on in 2016, you just have to take your pick:
 
 - [JSConf Iceland](http://jsconf.is)
-- [JSConf Beirut](http://www.jsconfbeirut.com)
 - [JSConf Budapest](http://jsconfbp.com)
 - [JSConf Uruguay](https://jsconf.uy)
 - [JSConf Belgium](http://jsconf.be/)
