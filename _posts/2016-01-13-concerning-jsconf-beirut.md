@@ -17,10 +17,10 @@ In late 2015 we were approached by JSConf Beirut to be added to the global famil
 
 Since then, it has come to our attention that the organisers are violating their own Code of Conduct, and despite multiple attempts at helping them to address this (that’s what we are here for, everyone makes mistakes, and we can help fix them), they refuse to handle the situations professionally and adequately.
 
-As a result, the JSConf Family of events is withdrawing their support for the Beirut event. In light of [the 2016 hiatus of JSConf EU](http://2015.jsconf.eu/news/2016/01/05/announcing-jsconfeu-2017/), we recommended people visiting one of the other <strike>6</strike> 5 JSConfs around the world that are happening in 2016, including JSConf Beirut. We also suggested this on our Twitter account.
+As a result, the JSConf Family of events is withdrawing their support for the Beirut event. In light of [the 2016 hiatus of JSConf EU](http://2015.jsconf.eu/news/2016/01/05/announcing-jsconfeu-2017/), we recommended people visiting one of the other <strike>6</strike> 5 JSConfs around the world that are happening in 2016, included JSConf Beirut. We also suggested this on our Twitter account.
 
 **We no longer recommend you attend or speak at JSConf Beirut**, or whatever the event is going to be called going forward, as we have asked the organisers to change it as to not mislead attendees and speakers.
 
-We apologise for any inconvenience, but the safety of this community is our prime concern, and after a significant about of time trying to fix the situation, we don’t see another way out.
+We apologise for any inconvenience, but the safety of this community is our prime concern, and after a significant amount of time trying to fix the situation, we don’t see another way out.
 
 We are disappointed that things have turned out this way and we hope we can bring JSConf to Lebanon in the future.
