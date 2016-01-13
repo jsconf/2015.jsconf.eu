@@ -5,6 +5,7 @@ category: news
 tags: news
 background: background4
 image: /img/top_disco.jpg
+figure: /img/what-next.jpg
 ---
 
 {% include post-header.html %}
