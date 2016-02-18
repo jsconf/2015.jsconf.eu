@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concerning JSConf Beirut"
+title: "UPDATED: Concerning JSConf Beirut"
 category: news
 tags: news
 background: background4
@@ -9,6 +9,12 @@ figure: /img/what-next.jpg
 ---
 
 {% include post-header.html %}
+
+**UPDATE** February 18th: We have been assured that the individual who caused the breaches of the Code of Conduct has been removed from the event. Although we have limited visibility into the operation, we believe the new organisation team is acting in good faith, and are subsequently **lifting our recommendation to not attend** the event.
+
+* * *
+
+Original message:
 
 JSConf is [a federated group of events](http://jsconf.com). No one person or group is responsible all of them. Instead, we are a close-knit collection of groups that run a JSConf locally, where we live. There are nine JSConfs in the US, Europe, South America, Australia and Asia. They all have their own “feel”, but they all share the awesome community spirit that [the original JSConf US in 2009 sparked](http://2009.jsconf.us).
 
