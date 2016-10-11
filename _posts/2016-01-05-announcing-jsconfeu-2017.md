@@ -27,6 +27,7 @@ But don’t despair! There are A LOT of JSConfs going on in 2016, you just have 
 - [JSConf Uruguay](https://jsconf.uy)
 - [JSConf Belgium](http://jsconf.be/)
 - [JSConf Asia](http://jsconf.asia)
+- [Web Rebels](https://www.webrebels.org/)
 
 * * *
 
