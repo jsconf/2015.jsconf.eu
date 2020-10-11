@@ -16,7 +16,6 @@
 Tiffany Conroy
 Twitter: [@theophani](https://twitter.com/theophani)
 Email: [tiffany@jsconf.eu](mailto:tiffany@jsconf.eu)
-Phone(de): +4917632578373
 
 ## The Quick Version
 
